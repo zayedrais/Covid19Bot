@@ -1,0 +1,32 @@
+{
+  "luis_schema_version": "4.0.0",
+  "intents": [
+    {
+      "name": "l_covid19"
+    },
+    {
+      "name": "q_covid19"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "prebuiltEntities": [],
+  "utterances": [],
+  "versionId": "Dispatch",
+  "name": "covid19Dispatch",
+  "desc": "Dispatch model for covid19Dispatch",
+  "culture": "en-us",
+  "tokenizerVersion": "1.0.0",
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [],
+  "settings": [
+    {
+      "name": "NormalizeDiacritics",
+      "value": "true"
+    }
+  ]
+}

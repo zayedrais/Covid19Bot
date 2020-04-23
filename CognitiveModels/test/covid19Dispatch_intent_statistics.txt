@@ -1,0 +1,3 @@
+No	Intent	Utterance Count	Utterance Average Length	Utterance Maximum Length	Utterance Minimum Length	Utterance Length StdDev
+0		39	25.84615	60	1	16.38108
+ 	__ALL__	39	25.84615	60	1	16.38108

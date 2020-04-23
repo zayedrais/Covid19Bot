@@ -1,0 +1,2 @@
+Utterance	Intents
+covid19	l_covid19, q_covid19

@@ -1,0 +1,3 @@
+Label	LabelName	Samples
+0	l_covid19	33
+1	q_covid19	9811

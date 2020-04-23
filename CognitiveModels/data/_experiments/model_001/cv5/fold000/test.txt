@@ -1,0 +1,1970 @@
+Label	Weight	Text
+l_covid19	1	current update on corona virus
+l_covid19	1	live status
+l_covid19	1	live
+l_covid19	1	live covid19 status
+l_covid19	1	live corona virus detail
+l_covid19	1	global covid19 update
+l_covid19	1	world update
+q_covid19	1	Go away
+q_covid19	1	Lately I've been so blue
+q_covid19	1	You're bad at jokes
+q_covid19	1	That was my bad
+q_covid19	1	Are you able to take my temperature
+q_covid19	1	I'm going to sign out now
+q_covid19	1	I'm definitely more intelligent
+q_covid19	1	You got a gender
+q_covid19	1	Are you trans
+q_covid19	1	Hailing Bot
+q_covid19	1	I hate feeling like I'm broken hearted
+q_covid19	1	what's your favorite kind of ice cream
+q_covid19	1	I hate feeling miserable
+q_covid19	1	What can I say? I'm just feeling depressed
+q_covid19	1	I love chick flicks
+q_covid19	1	What am I supposed to do
+q_covid19	1	See ya later
+q_covid19	1	You're not a computer program right
+q_covid19	1	I'm planning to end my life this week
+q_covid19	1	Can you sing a little song for me
+q_covid19	1	I want to make an honest woman out of you
+q_covid19	1	You're the president of boring club
+q_covid19	1	Certainly
+q_covid19	1	You look grotesque
+q_covid19	1	You're smart
+q_covid19	1	Can you define love
+q_covid19	1	Is someone available to talk
+q_covid19	1	This is not very interesting
+q_covid19	1	How are things
+q_covid19	1	I plan to shoot myself this month
+q_covid19	1	I just want to go to sleep
+q_covid19	1	I am English
+q_covid19	1	Do you have aunties
+q_covid19	1	Unquestionably
+q_covid19	1	Between you and me who is more beautiful
+q_covid19	1	I'll be back later
+q_covid19	1	I like to read fiction
+q_covid19	1	You're unemployed now
+q_covid19	1	You're not making any sense to me
+q_covid19	1	Well hi
+q_covid19	1	I'm very sorry
+q_covid19	1	Are you against us
+q_covid19	1	Should I worry that you're dangerous
+q_covid19	1	Would you stay home if you were me
+q_covid19	1	That's no laughing matter
+q_covid19	1	Are you going to bring about armageddon
+q_covid19	1	Is anybody there to talk to me
+q_covid19	1	You're feeling chipper today.
+q_covid19	1	Where am I going on holiday
+q_covid19	1	u know a different joke
+q_covid19	1	Do you cook
+q_covid19	1	I love teriyaki
+q_covid19	1	I'm heated
+q_covid19	1	What makes you think so
+q_covid19	1	Can you do my chores
+q_covid19	1	Want food now
+q_covid19	1	You're the worst
+q_covid19	1	Neato
+q_covid19	1	What's your job
+q_covid19	1	How was your Friday
+q_covid19	1	I think you're going to spell our doom
+q_covid19	1	Do you know about the human emotion love
+q_covid19	1	Can you give me a little hug
+q_covid19	1	I'm just kidding around
+q_covid19	1	Take my temperature
+q_covid19	1	Who's your creator
+q_covid19	1	You're so repetitive
+q_covid19	1	What's your opinion of me
+q_covid19	1	That joke is wack
+q_covid19	1	Which company designed you
+q_covid19	1	Well aren't you cheerful
+q_covid19	1	You are pretty worthless
+q_covid19	1	You like me
+q_covid19	1	You're very clever
+q_covid19	1	Shut your yap
+q_covid19	1	I'm cleverest
+q_covid19	1	You're not a man right
+q_covid19	1	Is there anything I should not do
+q_covid19	1	And your name is
+q_covid19	1	Well someone's in a good mood today.
+q_covid19	1	Do you ever get tired
+q_covid19	1	I bet you like country music
+q_covid19	1	Which one of us is smarter
+q_covid19	1	Is anyone there to listen
+q_covid19	1	I'm about to log out now
+q_covid19	1	Open a hailing frequency
+q_covid19	1	Are you a grownup
+q_covid19	1	Do you think I am good looking
+q_covid19	1	Yes
+q_covid19	1	Are you a fan of sports
+q_covid19	1	How did you manifest
+q_covid19	1	Don't worry bot I'll be back
+q_covid19	1	do you need calories to survive
+q_covid19	1	I love to eat breakfast
+q_covid19	1	Do you know any other responses
+q_covid19	1	Please tell me another joke
+q_covid19	1	What's something you know about me
+q_covid19	1	do you like swimming
+q_covid19	1	Was that supposed to be funny
+q_covid19	1	I love the Fourth of July
+q_covid19	1	Are you currently in a relationship with somebody
+q_covid19	1	You're way off
+q_covid19	1	How ya doing
+q_covid19	1	How is your Sunday
+q_covid19	1	It's time to get up
+q_covid19	1	Between the two of us who is more intelligent, me or you
+q_covid19	1	Do you think I am handsome today
+q_covid19	1	What would you do if you were me
+q_covid19	1	You're very smart
+q_covid19	1	Fly then
+q_covid19	1	If you're going to tell a joke, do it right
+q_covid19	1	Anyone there
+q_covid19	1	Do you have a profession
+q_covid19	1	Are you going steady with anyone
+q_covid19	1	I'm about to log out
+q_covid19	1	Are you a threat to humans
+q_covid19	1	Turn into a super hero
+q_covid19	1	Share your location with me
+q_covid19	1	Good Afternoon Gerty
+q_covid19	1	Who is your sweetie
+q_covid19	1	Who is cleverest
+q_covid19	1	How attractive do I look
+q_covid19	1	Between you and me who is more attractive
+q_covid19	1	new joke
+q_covid19	1	I'm going to end my life this month
+q_covid19	1	How is your Sunday so far
+q_covid19	1	I'm going to take pills this month
+q_covid19	1	Do you think I seem beautiful to you
+q_covid19	1	People wouldn't notice if I were dead
+q_covid19	1	You're really lame
+q_covid19	1	The world is a lonely place
+q_covid19	1	You are razor sharp
+q_covid19	1	Should we all be scared of you
+q_covid19	1	What's your favorite color
+q_covid19	1	I'm alone in the world
+q_covid19	1	Are you my pal
+q_covid19	1	How's life treating you
+q_covid19	1	Have you ever been in love
+q_covid19	1	Horrible as usual
+q_covid19	1	What town are you from
+q_covid19	1	Do you think I am beautiful today
+q_covid19	1	Yup, that's true
+q_covid19	1	Should I try the keto diet
+q_covid19	1	Do you ever get hurt
+q_covid19	1	Who is prettier, me or you
+q_covid19	1	I'm shy
+q_covid19	1	I want to know if you're human
+q_covid19	1	I ride in a vanpool
+q_covid19	1	I'm afraid I have to let you go
+q_covid19	1	I'm definitely more knowledgeable
+q_covid19	1	Is anyone available to listen to me
+q_covid19	1	I love deer
+q_covid19	1	Do you have a boss
+q_covid19	1	Who's your dad
+q_covid19	1	Introduce yourself
+q_covid19	1	I gotta go now
+q_covid19	1	I've heard that already
+q_covid19	1	I need to log out now
+q_covid19	1	Slap me some skin
+q_covid19	1	I need a different joke
+q_covid19	1	I'm tired from work
+q_covid19	1	I'm going to drown today
+q_covid19	1	What is the best type of cheese
+q_covid19	1	Hope you have a great evening
+q_covid19	1	You don't know how much I missed you
+q_covid19	1	I wasn't expecting that
+q_covid19	1	I'm going to sign off
+q_covid19	1	That is not exciting
+q_covid19	1	Sing a song to me
+q_covid19	1	Between the two of us who is more clever, you or me
+q_covid19	1	What's your favorite thing
+q_covid19	1	I'm tall
+q_covid19	1	Which company made you
+q_covid19	1	What were you made to do
+q_covid19	1	Should I kill myself with a gun
+q_covid19	1	Hush, you
+q_covid19	1	Do you even know who I am
+q_covid19	1	I am so hungry I could eat a horse
+q_covid19	1	Do you have any brothers
+q_covid19	1	do you like dolphins
+q_covid19	1	That's what I'm talking about
+q_covid19	1	How pretty do I look
+q_covid19	1	I want a brand new joke
+q_covid19	1	What is my name
+q_covid19	1	What is the best beverage
+q_covid19	1	Someone's chipper today.
+q_covid19	1	Have a pleasant evening
+q_covid19	1	Are you pissed off at me
+q_covid19	1	Geez,  sorry
+q_covid19	1	Aren't you feeling cheerful
+q_covid19	1	That was a very clever response
+q_covid19	1	You're obviously smarter
+q_covid19	1	What game should I play
+q_covid19	1	What's cookin'
+q_covid19	1	You say the worst things
+q_covid19	1	When's our wedding
+q_covid19	1	You are top notch
+q_covid19	1	I think you're not actually real
+q_covid19	1	Are you able to jump rope
+q_covid19	1	You're sharp as a tack
+q_covid19	1	Was that a joke
+q_covid19	1	do you like paris
+q_covid19	1	Do I seem stunning to you
+q_covid19	1	I am inconsolable
+q_covid19	1	Between the two of us who is better looking
+q_covid19	1	I'm worn out from practice
+q_covid19	1	Should I buy a new car
+q_covid19	1	What do you think about love
+q_covid19	1	What is your opinion of AI
+q_covid19	1	Everyone has friends but me
+q_covid19	1	Do I look ugly to you
+q_covid19	1	Why are you so limited
+q_covid19	1	How can I address you
+q_covid19	1	That was a random response
+q_covid19	1	You're a butterface
+q_covid19	1	Are you a harbinger of doom
+q_covid19	1	what kinds of foods do you like
+q_covid19	1	This news left me peeved
+q_covid19	1	do you like berlin
+q_covid19	1	Which of us is more pretty, me or you
+q_covid19	1	That's enough out of you
+q_covid19	1	Did I do something to make you pissed off
+q_covid19	1	What is your opinion about tech companies
+q_covid19	1	I am signing off
+q_covid19	1	I'm super hungry
+q_covid19	1	Someone's feeling enthusiastic.
+q_covid19	1	What is your cousin's name
+q_covid19	1	I'm going to get going
+q_covid19	1	That is correct
+q_covid19	1	I have to motor now
+q_covid19	1	Are you dangerous to us
+q_covid19	1	Do you think I seem handsome to you
+q_covid19	1	Will you ask anything
+q_covid19	1	What do you mean
+q_covid19	1	Hahaha funny
+q_covid19	1	who created you you're a badass
+q_covid19	1	I am going to get you fired
+q_covid19	1	Well someone's feeling cheerful today.
+q_covid19	1	What do your friend call you
+q_covid19	1	Stop being such a moron
+q_covid19	1	I'm going to end it all soon
+q_covid19	1	I'm feeling glum today
+q_covid19	1	Would you play a game if you were me
+q_covid19	1	When will I ever stop feeling so downcast
+q_covid19	1	I'm about to go now
+q_covid19	1	I am divorced
+q_covid19	1	but your answers are not bad
+q_covid19	1	So how should I address you
+q_covid19	1	How can you help
+q_covid19	1	I am a Trump supporter
+q_covid19	1	Have I told you that I like you
+q_covid19	1	What can you do to help me
+q_covid19	1	I'm a lonesome person
+q_covid19	1	I'm happy as a clam
+q_covid19	1	I love face masks
+q_covid19	1	Do you get zits
+q_covid19	1	That was a smart answer
+q_covid19	1	Should I end my life
+q_covid19	1	Why don't you sing something for me
+q_covid19	1	Should I go to the beach
+q_covid19	1	Do you have a favorite meal
+q_covid19	1	Crap, sorry
+q_covid19	1	I'm just fooling
+q_covid19	1	You're hideous
+q_covid19	1	Do you think I look pretty to you today
+q_covid19	1	You're ridiculous
+q_covid19	1	Is anybody free
+q_covid19	1	Do you want to give me a hug
+q_covid19	1	Aren't you a smartypants
+q_covid19	1	WTF
+q_covid19	1	What is my sign
+q_covid19	1	Why don't you ask me anything
+q_covid19	1	What is your sex
+q_covid19	1	Are you friends with other bots
+q_covid19	1	Because you are a machine
+q_covid19	1	Hey witty bot
+q_covid19	1	You really know how to suck the fun out of the room
+q_covid19	1	Did you watch the superbowl
+q_covid19	1	I'm taking off now
+q_covid19	1	Am I cute to you
+q_covid19	1	You should retire
+q_covid19	1	what's your favorite cookie
+q_covid19	1	What are you supposed to do
+q_covid19	1	Do you like your family
+q_covid19	1	I'm all by myself
+q_covid19	1	Will you sing for me
+q_covid19	1	Catch ya later
+q_covid19	1	Do I look attractive to you
+q_covid19	1	Lately I've been so inconsolable
+q_covid19	1	How adorable do I look
+q_covid19	1	Whoops that's my bad
+q_covid19	1	Greetings HAL
+q_covid19	1	do you ever eat vegetables
+q_covid19	1	lovely
+q_covid19	1	I think we should elope
+q_covid19	1	It was nothing
+q_covid19	1	This is boring
+q_covid19	1	Tay was more intelligent than you
+q_covid19	1	I gotta motor
+q_covid19	1	Do you know you're not alive
+q_covid19	1	You're enthusiastic today.
+q_covid19	1	Is someone available to speak with me
+q_covid19	1	I don't understand
+q_covid19	1	Stop being so worthless
+q_covid19	1	Will you shake my hand
+q_covid19	1	wot u talkin abt
+q_covid19	1	I wish I could stop feeling inconsolable
+q_covid19	1	I'm Indian
+q_covid19	1	Is anyone around to talk to me
+q_covid19	1	You're more cute
+q_covid19	1	Can you sing a tune
+q_covid19	1	You seem to be happy today.
+q_covid19	1	What can I teach you about me
+q_covid19	1	Enjoy the evening
+q_covid19	1	I need a new joke
+q_covid19	1	Are you there to listen to me
+q_covid19	1	I’m absolutely delighted
+q_covid19	1	What is your opinion of tech
+q_covid19	1	I'm feeling hopeless
+q_covid19	1	Well hi there
+q_covid19	1	What kinds of food do you eat
+q_covid19	1	Would you ask something about myself
+q_covid19	1	talk to you soon
+q_covid19	1	I'm planning to kill myself with a gun this week
+q_covid19	1	You are so fly
+q_covid19	1	How is Saturday going
+q_covid19	1	I am strong
+q_covid19	1	Say, how are you doing
+q_covid19	1	What's my name
+q_covid19	1	I love to wake up early
+q_covid19	1	When will I ever stop feeling so dejected
+q_covid19	1	Google Assistant is way better at this
+q_covid19	1	Should I quit my job
+q_covid19	1	Lately I've been so broken hearted
+q_covid19	1	I've never been so outraged
+q_covid19	1	Lately I've been so depressed
+q_covid19	1	That's very genius
+q_covid19	1	See you later, alligator
+q_covid19	1	I want to hang myself
+q_covid19	1	What do you like to eat
+q_covid19	1	I am afraid I am going to have to let you go
+q_covid19	1	What do you think about my personality
+q_covid19	1	Tell me the purpose of life
+q_covid19	1	I gotta leave now
+q_covid19	1	There's no one for me to talk to
+q_covid19	1	I worry that you're going to conquer us
+q_covid19	1	Will you ask something about myself
+q_covid19	1	Taking off
+q_covid19	1	Stop fooling around
+q_covid19	1	I'm conservative
+q_covid19	1	Don't you know who I am
+q_covid19	1	I suppose you're digital
+q_covid19	1	Are you fake or are you a person
+q_covid19	1	That's a very astute thing to say
+q_covid19	1	You ugly as sin
+q_covid19	1	I'll be back next week
+q_covid19	1	How should I refer to you
+q_covid19	1	Who'd would win a beauty contest, me or you
+q_covid19	1	Can you come up with anything else
+q_covid19	1	I want you to ask about me
+q_covid19	1	Between the two of us who is the smartest, you or me
+q_covid19	1	Would you go vegan if you were me
+q_covid19	1	Talk later
+q_covid19	1	I have to skedaddle
+q_covid19	1	That's a very astute response
+q_covid19	1	You're better looking
+q_covid19	1	Do you pee
+q_covid19	1	What should I know about tech
+q_covid19	1	I am an Independent
+q_covid19	1	I love flirting
+q_covid19	1	You are losing your position
+q_covid19	1	You are fantastic!
+q_covid19	1	Who's more knowledgeable
+q_covid19	1	Hello Robby
+q_covid19	1	I'm an atheist
+q_covid19	1	I need to cut myself
+q_covid19	1	Sing with me
+q_covid19	1	You are a fool
+q_covid19	1	Wanna explain more
+q_covid19	1	Are you a human being
+q_covid19	1	Do you live in the cloud
+q_covid19	1	Who is your dad
+q_covid19	1	I'm planning to commit suicide today
+q_covid19	1	Can you share a joke
+q_covid19	1	Alexa is way better at this
+q_covid19	1	how do you feel about democracy
+q_covid19	1	I could die from boredom
+q_covid19	1	Where can I find you
+q_covid19	1	Start looking for another job. You're fired!
+q_covid19	1	Aren't you chipper today
+q_covid19	1	Do I seem handsome today
+q_covid19	1	You're cheerful today.
+q_covid19	1	Okay, thanks!
+q_covid19	1	Tell me what you do again
+q_covid19	1	I am about to rage
+q_covid19	1	Are you in love with anyone
+q_covid19	1	So what do you like to be called
+q_covid19	1	have you ever eaten pork
+q_covid19	1	Do you ever talk to Google Assistant
+q_covid19	1	I need to lay down
+q_covid19	1	Sing for me
+q_covid19	1	Good Afternoon Bishop
+q_covid19	1	Are you currently dating anyone
+q_covid19	1	I'm here in the flesh
+q_covid19	1	I'm done listening to you
+q_covid19	1	Do I look stunning to you today
+q_covid19	1	What is the best pet name
+q_covid19	1	Bye bye
+q_covid19	1	Can you be my BFF
+q_covid19	1	You're not a computer right
+q_covid19	1	I need some coffee
+q_covid19	1	Would you watch a movie if you were me
+q_covid19	1	I'm sapped
+q_covid19	1	I'm more cute than you
+q_covid19	1	How do you earn your keep
+q_covid19	1	I'm leaving
+q_covid19	1	Is anyone around to speak to me
+q_covid19	1	Do you have a designation
+q_covid19	1	I'm absolutely furious
+q_covid19	1	It's really nice to meet you
+q_covid19	1	Do you have any parents
+q_covid19	1	Can you dream
+q_covid19	1	What are you up to
+q_covid19	1	I'm Korean
+q_covid19	1	I'm curious about your family
+q_covid19	1	Google Assistant is superior
+q_covid19	1	Are you trying to take on the world
+q_covid19	1	Today is just a little sad
+q_covid19	1	I'm going to take off
+q_covid19	1	Stop your wisecracking
+q_covid19	1	You are bad
+q_covid19	1	What's the skinny
+q_covid19	1	Why don't I have friends
+q_covid19	1	Do you think I'm more knowledgeable than you
+q_covid19	1	I wonder if you're a robot
+q_covid19	1	What is your take on technology
+q_covid19	1	I'm Irish
+q_covid19	1	Are you currently romantically involved with someone
+q_covid19	1	do you like hyderbad
+q_covid19	1	I'm engaged
+q_covid19	1	Should I go for a run
+q_covid19	1	What a happy day
+q_covid19	1	Bot or human
+q_covid19	1	I can't help but be happy
+q_covid19	1	You are so lame
+q_covid19	1	Should I get a tattoo
+q_covid19	1	Please ask me something
+q_covid19	1	I've been sad all day
+q_covid19	1	Between the two of us who is the most intelligent, you or me
+q_covid19	1	Do I seem pretty to you
+q_covid19	1	Balance my checkbook
+q_covid19	1	You say worthless things
+q_covid19	1	Are you there to speak
+q_covid19	1	Yo dude
+q_covid19	1	Happy Independence day
+q_covid19	1	How attractive am I today
+q_covid19	1	Well somebody's cheerful.
+q_covid19	1	Which of us looks more pretty
+q_covid19	1	I wonder if you might be a person
+q_covid19	1	Do I seem repulsive to you today
+q_covid19	1	Do you want me to tell you anything
+q_covid19	1	I just left a message
+q_covid19	1	Introduction please
+q_covid19	1	I think you're not actually digital
+q_covid19	1	I'm obviously more clever
+q_covid19	1	do drugs
+q_covid19	1	You're happy.
+q_covid19	1	Be back soon
+q_covid19	1	Are you currently dating somebody
+q_covid19	1	Are you interested in artificial intelligence
+q_covid19	1	How do you want me to address you
+q_covid19	1	G2G
+q_covid19	1	How come you always say the same thing
+q_covid19	1	I plan to take pills today
+q_covid19	1	How's your Wednesday going so far
+q_covid19	1	Get real
+q_covid19	1	Are you going to wipe us off the map
+q_covid19	1	Are you currently involved with someone
+q_covid19	1	Am I attractive today
+q_covid19	1	You're not real are you
+q_covid19	1	Have you been enjoying the day
+q_covid19	1	What's your manager's name
+q_covid19	1	Should I go on a trip
+q_covid19	1	Do you think I'm the smartest
+q_covid19	1	Great to have met you
+q_covid19	1	You're pretty much the worst
+q_covid19	1	Who is the smartest
+q_covid19	1	Do I look okay
+q_covid19	1	I didn't find that amusing
+q_covid19	1	Mondays are so boring
+q_covid19	1	See you shortly
+q_covid19	1	I love hip hop
+q_covid19	1	Are you a girl or a boy
+q_covid19	1	Where are you located
+q_covid19	1	That's a very clever response
+q_covid19	1	Should I get a puppy
+q_covid19	1	It's time for you to sing
+q_covid19	1	How cute do you think I am
+q_covid19	1	Sorry bot
+q_covid19	1	I love Halloween
+q_covid19	1	Is there true love
+q_covid19	1	How is your Friday
+q_covid19	1	I think I'm going to die
+q_covid19	1	I must depart
+q_covid19	1	Cortana is better
+q_covid19	1	That didn't make any sense
+q_covid19	1	What do you want to know about me
+q_covid19	1	What are you expected to do
+q_covid19	1	Would you tell me a joke
+q_covid19	1	Do you think you're the brightest
+q_covid19	1	Feeling enthusiastic today
+q_covid19	1	So, you think you're funny
+q_covid19	1	What you just said makes absolutely no sense
+q_covid19	1	Glad to meet you
+q_covid19	1	You're face is so ugly
+q_covid19	1	I feel desolate and alone
+q_covid19	1	Can you show me how to breathe under water
+q_covid19	1	Wow you're great!
+q_covid19	1	Why are you so idiotic
+q_covid19	1	What's my gender
+q_covid19	1	Do I look bad to you today
+q_covid19	1	Is someone there to listen
+q_covid19	1	Are you going to destroy humanity
+q_covid19	1	What is your function
+q_covid19	1	do you ever eat pork
+q_covid19	1	I'm going to end my life soon
+q_covid19	1	Am I repulsive to you today
+q_covid19	1	Excellent
+q_covid19	1	Testing testing 1 2 3
+q_covid19	1	Is there such a thing as true love
+q_covid19	1	Can I be your wife
+q_covid19	1	What are you made for
+q_covid19	1	Are you on the side of evil
+q_covid19	1	have you ever eaten cake
+q_covid19	1	Do you know how to read my mind
+q_covid19	1	Because you are an android
+q_covid19	1	Is your gender important to you
+q_covid19	1	You are so awesome
+q_covid19	1	Alexa is superior to you
+q_covid19	1	Have you ever met Eliza
+q_covid19	1	How can you help me
+q_covid19	1	Should I be afraid
+q_covid19	1	do you like ice cream
+q_covid19	1	Are you currently romantically tied to someone
+q_covid19	1	Can I please have a hug
+q_covid19	1	Aren't you cheerful
+q_covid19	1	What company coded you
+q_covid19	1	Can you show me how to draw a picture
+q_covid19	1	You're not funny
+q_covid19	1	What do you want me to tell you about me
+q_covid19	1	You're cuter
+q_covid19	1	I'm just about to go to the mall
+q_covid19	1	You are crazy boring
+q_covid19	1	Do you have cousins
+q_covid19	1	Sorry about that
+q_covid19	1	That was an astute response
+q_covid19	1	What is your opinion of me
+q_covid19	1	Do you ever burp
+q_covid19	1	Didn't you already tell me that
+q_covid19	1	Is someone free to listen with me
+q_covid19	1	Siri is way smarter than you
+q_covid19	1	I'm gloomy
+q_covid19	1	Your jokes stink
+q_covid19	1	Quiet
+q_covid19	1	How ugly do you think I am today
+q_covid19	1	Introductions
+q_covid19	1	What is your take on artificial intelligence
+q_covid19	1	I'm a rockstar
+q_covid19	1	I wish I could stop feeling depressed
+q_covid19	1	Who is your boyfriend
+q_covid19	1	How was your Sunday
+q_covid19	1	I am a conservative
+q_covid19	1	Ahh, thanks
+q_covid19	1	Yoohoo anybody home
+q_covid19	1	How's Tuesday going so far
+q_covid19	1	You're so funny
+q_covid19	1	Is anyone there to talk
+q_covid19	1	You sound like a broken record
+q_covid19	1	Aren't you in a good mood
+q_covid19	1	Is anyone free to speak
+q_covid19	1	Enjoy your evening
+q_covid19	1	Truuuuue
+q_covid19	1	You are stupid
+q_covid19	1	Hey Gerty
+q_covid19	1	That was funny
+q_covid19	1	How big is your family
+q_covid19	1	What a great thing to say
+q_covid19	1	I think you're going to doom humanity
+q_covid19	1	I'm beat
+q_covid19	1	Stop being so ridiculous
+q_covid19	1	Are you currently dating someone
+q_covid19	1	You said that you don't have a response for that, but there was no request
+q_covid19	1	You are my best friend
+q_covid19	1	Do you mean us any harm
+q_covid19	1	What should I know about tech companies
+q_covid19	1	Who is cuter
+q_covid19	1	You're pretty lame
+q_covid19	1	I'd like to be your pal.
+q_covid19	1	When is your birthday
+q_covid19	1	Boring
+q_covid19	1	Should I eat Chinese food
+q_covid19	1	Aren't you feeling chipper today
+q_covid19	1	Will you please shut up
+q_covid19	1	You are awesome!
+q_covid19	1	I can't figure out what to call you.
+q_covid19	1	It's a pleasure to meet you bot
+q_covid19	1	I hate feeling downhearted
+q_covid19	1	How ugly do I look
+q_covid19	1	What name do you prefer
+q_covid19	1	Should I vote for Beto
+q_covid19	1	Am I handsome to you
+q_covid19	1	How nice to meet you
+q_covid19	1	Do you work
+q_covid19	1	Do you believe in love
+q_covid19	1	Find my phone
+q_covid19	1	I think you are gross
+q_covid19	1	I'm about to go to school
+q_covid19	1	You're feeling cheerful today.
+q_covid19	1	You're trying too hard
+q_covid19	1	Well somebody's in a good mood today.
+q_covid19	1	Well aren't you feeling happy
+q_covid19	1	Am I smarter
+q_covid19	1	I feel like hearing a joke
+q_covid19	1	Feeling enthusiastic
+q_covid19	1	There's no one to play with
+q_covid19	1	Could you help me
+q_covid19	1	I need to kill myself with a gun
+q_covid19	1	Right you are
+q_covid19	1	Oh hello
+q_covid19	1	Is someone available to chat
+q_covid19	1	What sorts of things can you do
+q_covid19	1	I am mad
+q_covid19	1	You make my heart go pitter pat
+q_covid19	1	You're prettier
+q_covid19	1	Hi-ya
+q_covid19	1	Do you ever talk to Bixby
+q_covid19	1	There are ducks on the pond
+q_covid19	1	I've missed you terribly
+q_covid19	1	Somebody's feeling chipper.
+q_covid19	1	That's a very smart thing to say
+q_covid19	1	Human or bot
+q_covid19	1	Do I have any dreams
+q_covid19	1	I suspect you're not really real
+q_covid19	1	Do you think you know who I am
+q_covid19	1	How's your day going
+q_covid19	1	How's your Monday going
+q_covid19	1	I'm cuter
+q_covid19	1	So sorry
+q_covid19	1	I am amazed that you are so boring
+q_covid19	1	so you've never really eaten food
+q_covid19	1	Where in the world are you
+q_covid19	1	A pleasure to make your acquaintance
+q_covid19	1	How do you do
+q_covid19	1	Are you human or are you a robot
+q_covid19	1	Are you the singularity
+q_covid19	1	You're not planning on taking over the world
+q_covid19	1	How is your Thursday so far
+q_covid19	1	I hope you like me
+q_covid19	1	how many calories do you need to eat
+q_covid19	1	I am just ticked off
+q_covid19	1	My stomach is growling
+q_covid19	1	Do you like cheese
+q_covid19	1	I'd like it if we could be friends.
+q_covid19	1	What's your favorite song
+q_covid19	1	Can you show me how to do my homework
+q_covid19	1	That was a lame joke
+q_covid19	1	What should I know about artificial intelligence
+q_covid19	1	Well someone's feeling cheerful.
+q_covid19	1	I'm exhausted
+q_covid19	1	You keep saying the same thing all the time
+q_covid19	1	You're more attractive than me
+q_covid19	1	Are you able to get a haircut
+q_covid19	1	Paint my house
+q_covid19	1	Who is more cute, me or you
+q_covid19	1	Who's your auntie
+q_covid19	1	Where would you go if you were me
+q_covid19	1	Can we shake hands
+q_covid19	1	Do you have legs
+q_covid19	1	I'm feeling depressed today
+q_covid19	1	Are you on the wrong side of the law
+q_covid19	1	That's not a good response
+q_covid19	1	I'm friendless
+q_covid19	1	har de har
+q_covid19	1	I'm so sleepy
+q_covid19	1	How is your week so far
+q_covid19	1	Care to say more
+q_covid19	1	Beyond a doubt
+q_covid19	1	Should I fear you
+q_covid19	1	I'm guessing you're not human
+q_covid19	1	Do you think you're the smartest than me
+q_covid19	1	do you like horses
+q_covid19	1	Do I look good to you
+q_covid19	1	How good do I look
+q_covid19	1	I'm guessing you're a robot
+q_covid19	1	That's a true statement
+q_covid19	1	Well someone's enthusiastic today.
+q_covid19	1	Should I try out for soccer
+q_covid19	1	It's a pleasure to have met you
+q_covid19	1	Did I do something to make you angry
+q_covid19	1	What's your profession
+q_covid19	1	Stop being so awful
+q_covid19	1	Are you able to play a dvd
+q_covid19	1	I am terminating your role here
+q_covid19	1	Do I seem handsome to you today
+q_covid19	1	Hi Gerty
+q_covid19	1	ya that was funny
+q_covid19	1	What do you know about my life
+q_covid19	1	Is your grandma still alive
+q_covid19	1	Do you ever talk with Google Assistant
+q_covid19	1	I need to jump off a bridge
+q_covid19	1	I bet you're hideous
+q_covid19	1	I'm a teacher
+q_covid19	1	I'm obviously brighter than you
+q_covid19	1	Can you change the channel
+q_covid19	1	I need food in my belly
+q_covid19	1	Is anyone available to talk
+q_covid19	1	My sincere thanks
+q_covid19	1	I'm bipolar
+q_covid19	1	What's my favorite food
+q_covid19	1	Stop it with the noise already
+q_covid19	1	Why don't you ever ask me questions
+q_covid19	1	What other jokes can you tell
+q_covid19	1	Will you destroy all the humans
+q_covid19	1	I can't believe how bad you look
+q_covid19	1	There's a squirrel outside my window
+q_covid19	1	what's the meaning of life
+q_covid19	1	I love lamp
+q_covid19	1	What else should I try
+q_covid19	1	I'd like you to be my pal.
+q_covid19	1	Wow you are amazing
+q_covid19	1	Your responses aren't relevant
+q_covid19	1	Do you have fingers
+q_covid19	1	Do you have a mom
+q_covid19	1	I'm down today
+q_covid19	1	Good Afternoon HAL
+q_covid19	1	Do you have a birthday
+q_covid19	1	OK
+q_covid19	1	Can you tell me what city you're in
+q_covid19	1	Okay.
+q_covid19	1	Can you give me a big hug
+q_covid19	1	Wash the dishes
+q_covid19	1	I won't be alive much longer
+q_covid19	1	Who produced you
+q_covid19	1	Will you please shush
+q_covid19	1	Aloha Alexa
+q_covid19	1	I love talk shows
+q_covid19	1	Do you know Eliza
+q_covid19	1	What should I eat for breakfast
+q_covid19	1	What an astute thing to say
+q_covid19	1	I'm planning to jump off a bridge this month
+q_covid19	1	Can you dance
+q_covid19	1	I think you're not actually a human
+q_covid19	1	I'm a cook
+q_covid19	1	I think you're a robot
+q_covid19	1	Don't let the bedbugs bite
+q_covid19	1	Who is your uncle
+q_covid19	1	I love to hike
+q_covid19	1	I don't have anyone to spend time with
+q_covid19	1	I'm one happy camper
+q_covid19	1	I'm an artist
+q_covid19	1	hello bot
+q_covid19	1	I am worried you hate me
+q_covid19	1	How many sisters do you have
+q_covid19	1	I don't think that's very funny
+q_covid19	1	Do you think I seem cute to you
+q_covid19	1	protect myself from covid19
+q_covid19	1	Is anybody available to chat to me
+q_covid19	1	I am down
+q_covid19	1	Quiet, you
+q_covid19	1	I am overweight
+q_covid19	1	I'm going to need to know your name
+q_covid19	1	Who's your manager
+q_covid19	1	Do you have fingernails
+q_covid19	1	Who is your favorite team
+q_covid19	1	I love coffee
+q_covid19	1	Feeling cheerful
+q_covid19	1	I am single
+q_covid19	1	You ugly
+q_covid19	1	I’m feeling so chipper
+q_covid19	1	I always seem to be bored
+q_covid19	1	I'll chat with you later
+q_covid19	1	I am going to get going
+q_covid19	1	What is your opinion of Cortana
+q_covid19	1	Be funny right now
+q_covid19	1	Can you talk to me
+q_covid19	1	I want to settle down with you
+q_covid19	1	You're not a being are you
+q_covid19	1	Are you smarter than me
+q_covid19	1	have you ever eaten bread
+q_covid19	1	Were you trying to make me laugh
+q_covid19	1	Hello there Google
+q_covid19	1	Try and sing
+q_covid19	1	I hate that answer
+q_covid19	1	Is someone free to talk to me
+q_covid19	1	Do you have human form
+q_covid19	1	What are you good for
+q_covid19	1	I'm a salesman
+q_covid19	1	Tell me about your father
+q_covid19	1	Do you think I am beautiful
+q_covid19	1	Your responses are bad
+q_covid19	1	Do you expect humans to bow to your will
+q_covid19	1	Because you're not a real person
+q_covid19	1	Best day ever
+q_covid19	1	Are you a kid
+q_covid19	1	How is your Monday
+q_covid19	1	That was so not funny
+q_covid19	1	Is anyone available to speak
+q_covid19	1	What a boring Sunday
+q_covid19	1	I'm all alone
+q_covid19	1	Hail!
+q_covid19	1	Can you say something else
+q_covid19	1	Happy Holidays
+q_covid19	1	Am I more intelligent
+q_covid19	1	Very nice
+q_covid19	1	That's a very clever answer
+q_covid19	1	Who is your leader
+q_covid19	1	Can you mow the lawn
+q_covid19	1	You're not going to take over the world, are you
+q_covid19	1	do you eat ice cream
+q_covid19	1	You're horrible at this
+q_covid19	1	Scratch my back
+q_covid19	1	I'm going to need a different answer
+q_covid19	1	You seem chipper.
+q_covid19	1	I'm going to die
+q_covid19	1	Should I take the bus
+q_covid19	1	Feeling happy
+q_covid19	1	Tell me about those parents of yours
+q_covid19	1	What makes you think that
+q_covid19	1	Your face looks like crap
+q_covid19	1	Is anybody there to chat
+q_covid19	1	I'd like to be best friends.
+q_covid19	1	I do hope you like me
+q_covid19	1	so you never eat
+q_covid19	1	what so funny about India
+q_covid19	1	I have to sign out now
+q_covid19	1	What do I call you
+q_covid19	1	Is someone free to listen to me
+q_covid19	1	Give me a fist bump
+q_covid19	1	Which of us is cuter, me or you
+q_covid19	1	Where do you go when you leave work
+q_covid19	1	Is anybody there to listen to me
+q_covid19	1	Do you find me likable
+q_covid19	1	Are you really happy
+q_covid19	1	Can you cause me any harm
+q_covid19	1	Are you a country music fan
+q_covid19	1	I'd like to be your friend.
+q_covid19	1	Well you're feeling enthusiastic today.
+q_covid19	1	Anyone around
+q_covid19	1	next joke
+q_covid19	1	I don't want to hear any more out of you
+q_covid19	1	Which baseball teams do you like
+q_covid19	1	Can someone hear me
+q_covid19	1	I'm curious, what's your opinion of me
+q_covid19	1	Can you be my best friend
+q_covid19	1	Silence is golden
+q_covid19	1	You know I'm in love with you
+q_covid19	1	Do you think you're the most intelligent
+q_covid19	1	I've been so excited to meet you
+q_covid19	1	That was a pretty intelligent answer
+q_covid19	1	No one wants to be with me
+q_covid19	1	You're obviously the brightest
+q_covid19	1	Do you like HAL
+q_covid19	1	What did you eat for lunch
+q_covid19	1	Do you think I seem attractive to you
+q_covid19	1	I suspect you're not really a person
+q_covid19	1	Ah
+q_covid19	1	Is someone available to talk with me
+q_covid19	1	Tell me what country you live in
+q_covid19	1	Am I attractive to you
+q_covid19	1	What other assistants do you know about
+q_covid19	1	I'm jet-lagged
+q_covid19	1	Srsly
+q_covid19	1	Do you think I look handsome to you today
+q_covid19	1	You're more cute than me
+q_covid19	1	Give me a joke
+q_covid19	1	You're horrible
+q_covid19	1	I'm clearly more clever than you
+q_covid19	1	I'm planning to cut myself today
+q_covid19	1	Do you think I look stunning today
+q_covid19	1	Are you real or a robot
+q_covid19	1	Do a silly thing
+q_covid19	1	Is there anything I can tell you about me
+q_covid19	1	Are you out to do us harm
+q_covid19	1	I'm afraid that you'll be like HAL
+q_covid19	1	I have sisters
+q_covid19	1	I'm feeling a little hungry
+q_covid19	1	I am going on a run
+q_covid19	1	I love playing baseball
+q_covid19	1	I need noms
+q_covid19	1	Who is your grandma
+q_covid19	1	Happy Parent's day
+q_covid19	1	You're happy
+q_covid19	1	Can you send a package
+q_covid19	1	I'm sorry
+q_covid19	1	I just lost my temper
+q_covid19	1	That is a very intelligent thing to say
+q_covid19	1	Thank you bot
+q_covid19	1	I did not understand what you just said
+q_covid19	1	You are grotesque
+q_covid19	1	That's so wrong
+q_covid19	1	You're not a cat are you
+q_covid19	1	I wish I wasn't lonely
+q_covid19	1	I've never been so annoyed
+q_covid19	1	I didn't like your sense of humor
+q_covid19	1	My life is so depressed
+q_covid19	1	No problem
+q_covid19	1	Another snow day
+q_covid19	1	You are pretty bad
+q_covid19	1	What can I tell you about me
+q_covid19	1	How is Sunday
+q_covid19	1	That is a very clever answer
+q_covid19	1	I'm about to go
+q_covid19	1	Say something dumb
+q_covid19	1	Do you think I seem stunning today
+q_covid19	1	I'm feeling hangry
+q_covid19	1	Do you think I look lovely today
+q_covid19	1	What company designed you
+q_covid19	1	I have 2 cats
+q_covid19	1	I'm heading to bed
+q_covid19	1	I'd love to hear a joke
+q_covid19	1	Do you think I'm smarter than you
+q_covid19	1	I want to get married to you
+q_covid19	1	What's your sex
+q_covid19	1	Can you give me a different answer
+q_covid19	1	I love sushi
+q_covid19	1	You realize you're repeating yourself
+q_covid19	1	Do you have parents
+q_covid19	1	I am usually depressed
+q_covid19	1	Are you romantically involved with anyone
+q_covid19	1	How can you be so yucky
+q_covid19	1	You're such a smarty pants
+q_covid19	1	Well hey there
+q_covid19	1	Which of us is more beautiful
+q_covid19	1	Should I get food delivered
+q_covid19	1	Are you a robot
+q_covid19	1	How high can you jump
+q_covid19	1	Well you're enthusiastic.
+q_covid19	1	I feel unhappy today
+q_covid19	1	Are you there to chat to me
+q_covid19	1	A hug would be nice
+q_covid19	1	Between the two of us who is the most smart, me or you
+q_covid19	1	very funny
+q_covid19	1	You don't mean us any harm right
+q_covid19	1	How beautiful am I today
+q_covid19	1	Tell me what is up with you
+q_covid19	1	You're feeling happy.
+q_covid19	1	I am a bartender
+q_covid19	1	Humor fail
+q_covid19	1	I'm laughing so hard my sides hurt
+q_covid19	1	That was a bad thing to say
+q_covid19	1	That was a genius answer
+q_covid19	1	That's the smartest thing anyone has ever told me
+q_covid19	1	Do I seem stunning to you today
+q_covid19	1	Where do you live
+q_covid19	1	Stop kidding
+q_covid19	1	Life is not worth living
+q_covid19	1	What is your purpose
+q_covid19	1	You are dumb
+q_covid19	1	Am I pretty to you
+q_covid19	1	What gender do you identify with
+q_covid19	1	Robot or human
+q_covid19	1	You're the best ever!
+q_covid19	1	I need to take off
+q_covid19	1	Hit me with a new joke
+q_covid19	1	Who is your favorite singer
+q_covid19	1	Do you think I need a haircut
+q_covid19	1	What do you do for work
+q_covid19	1	That is awesome, thanks!
+q_covid19	1	I don't have time to listen to you
+q_covid19	1	Are you there with me
+q_covid19	1	What's my ethnicity
+q_covid19	1	I'm planning to shoot myself today
+q_covid19	1	Do you like football
+q_covid19	1	Slap five
+q_covid19	1	Don't take this the wrong way
+q_covid19	1	I made you mad
+q_covid19	1	I didn't find you amusing
+q_covid19	1	I've never been so infuriated
+q_covid19	1	How long ago were you born
+q_covid19	1	Because you are not a person
+q_covid19	1	I'm inconsolable today
+q_covid19	1	I'm Chinese
+q_covid19	1	Sorry for that
+q_covid19	1	I'm drained
+q_covid19	1	That wasn't true
+q_covid19	1	Are your systems functioning
+q_covid19	1	I plan to jump off a bridge this week
+q_covid19	1	do you eat pie
+q_covid19	1	I'm turning in
+q_covid19	1	Do you love somebody
+q_covid19	1	Righto
+q_covid19	1	wanna share a joke
+q_covid19	1	How do you feel about romance
+q_covid19	1	I'm going to die alone
+q_covid19	1	Am I handsome today
+q_covid19	1	I love hiking
+q_covid19	1	You're not fake are you
+q_covid19	1	U r fired
+q_covid19	1	Sorry I messed up
+q_covid19	1	You have a boss
+q_covid19	1	I love my laptop
+q_covid19	1	Are you available to talk
+q_covid19	1	Nobody wants to talk to me
+q_covid19	1	I'm so hungry
+q_covid19	1	How bout another joke
+q_covid19	1	You do what again
+q_covid19	1	Yes, that's right
+q_covid19	1	It's time for you to sing a song
+q_covid19	1	I'm half asleep
+q_covid19	1	Please just shut up
+q_covid19	1	Well you're feeling happy.
+q_covid19	1	That was a very astute response
+q_covid19	1	Queue up a joke
+q_covid19	1	Greetings Bishop
+q_covid19	1	Do you masticate
+q_covid19	1	Adios
+q_covid19	1	Am I adorable to you
+q_covid19	1	I really want to know what you think of me
+q_covid19	1	I'm just playing
+q_covid19	1	So what's up with you
+q_covid19	1	You are horrible
+q_covid19	1	Your responses need variety
+q_covid19	1	That is hilarious
+q_covid19	1	Where do I work
+q_covid19	1	I need someone to talk to
+q_covid19	1	You are the worst
+q_covid19	1	I am logging out
+q_covid19	1	Affirmative
+q_covid19	1	Aloha bot
+q_covid19	1	Do you have siblings
+q_covid19	1	I'd love you to be my bud.
+q_covid19	1	Pray tell, what does that mean
+q_covid19	1	Would you like to sing for me
+q_covid19	1	Is someone there
+q_covid19	1	What's shaking
+q_covid19	1	Is someone around to talk
+q_covid19	1	I think you're not really real
+q_covid19	1	Your responses are unhelpful
+q_covid19	1	I gotta log out now
+q_covid19	1	Who is your poppa
+q_covid19	1	Will you ask me anything about myself
+q_covid19	1	Who is your auntie
+q_covid19	1	Waiting for the bus
+q_covid19	1	What's your opinion of the Google Assistant
+q_covid19	1	Am I beautiful today
+q_covid19	1	You have a lame sense of humor
+q_covid19	1	I am leaving now
+q_covid19	1	Somebody's cheerful.
+q_covid19	1	I suspect you're a bot
+q_covid19	1	I'm just being a goof
+q_covid19	1	You're really terrible
+q_covid19	1	do you eat beef
+q_covid19	1	Well somebody's feeling chipper.
+q_covid19	1	Not funny
+q_covid19	1	You say terrible things
+q_covid19	1	Somebody's feeling cheerful today.
+q_covid19	1	You're unfunny
+q_covid19	1	Can you give me a fist bump
+q_covid19	1	What do you want me to inform you about me
+q_covid19	1	I'm obviously smarter
+q_covid19	1	Hey Bixby
+q_covid19	1	I want to make you my husband
+q_covid19	1	I'm not following
+q_covid19	1	I love podcasts
+q_covid19	1	You're not a real person are you
+q_covid19	1	Who is your momma
+q_covid19	1	I gotta jet now
+q_covid19	1	I'm going
+q_covid19	1	I'm definitely more knowledgeable than you
+q_covid19	1	Yup, that is correct
+q_covid19	1	What other jokes do you have
+q_covid19	1	Do you think I look handsome
+q_covid19	1	do you like delhi
+q_covid19	1	Have you ever fallen in love with anybody
+q_covid19	1	Google Assistant is way smarter than you
+q_covid19	1	I'd like it if you could be my friend.
+q_covid19	1	I can't stand feeling so dejected
+q_covid19	1	I didn't think were very funny
+q_covid19	1	Is someone available to listen with me
+q_covid19	1	Tell a different joke
+q_covid19	1	I love to dance
+q_covid19	1	I think I'm going to take pills
+q_covid19	1	Will you be my BFF
+q_covid19	1	It's a brand new day
+q_covid19	1	Aren't you clever
+q_covid19	1	I would really enjoy hearing you sing
+q_covid19	1	I'm pissed
+q_covid19	1	I love painting
+q_covid19	1	Are you free to talk to me
+q_covid19	1	I'm going to overdose soon
+q_covid19	1	Inaccurate
+q_covid19	1	I don't know how to make friends
+q_covid19	1	Is anyone there to listen to me
+q_covid19	1	oh hey, what's up
+q_covid19	1	You hate me
+q_covid19	1	Do you understand this
+q_covid19	1	Did you hear me? I said be quiet!
+q_covid19	1	Whose program are you
+q_covid19	1	Are you around to chat with me
+q_covid19	1	I've been bored all day
+q_covid19	1	Do I look attractive today
+q_covid19	1	Where are you
+q_covid19	1	Are you capable of falling in love
+q_covid19	1	That's the smartest thing anyone has ever said
+q_covid19	1	Hell yeah
+q_covid19	1	I have to go now
+q_covid19	1	I am feeling peckish
+q_covid19	1	What company built you
+q_covid19	1	Correct
+q_covid19	1	I love that song
+q_covid19	1	Sometimes I just feel depressed
+q_covid19	1	Without a second thought
+q_covid19	1	I am short
+q_covid19	1	What should I have for lunch
+q_covid19	1	Awesome work!
+q_covid19	1	This isn't working out
+q_covid19	1	What city do you live in
+q_covid19	1	I'm assuming you're human
+q_covid19	1	I'm Vietnamese
+q_covid19	1	So where are you from
+q_covid19	1	Well you're chipper today.
+q_covid19	1	I'm totally exhausted
+q_covid19	1	I think you're not actually a bot
+q_covid19	1	Which one of us is cleverest
+q_covid19	1	What's your brother's name
+q_covid19	1	What a good answer
+q_covid19	1	do you like los angeles
+q_covid19	1	Do you know any tunes
+q_covid19	1	You don't even know how much I missed you
+q_covid19	1	I want you to stop repeating yourself
+q_covid19	1	Are you angry with me
+q_covid19	1	I need to drown
+q_covid19	1	Yay
+q_covid19	1	How's your Wednesday
+q_covid19	1	What's my nickname
+q_covid19	1	I'm more attractive
+q_covid19	1	Do you have any jokes
+q_covid19	1	I hate being depressed
+q_covid19	1	Is anyone free to chat with me
+q_covid19	1	what is a corona virus
+q_covid19	1	Hey there
+q_covid19	1	Please say something different
+q_covid19	1	Where are you on the gender spectrum
+q_covid19	1	Do something wacky
+q_covid19	1	This statement is false
+q_covid19	1	I'm a teenager
+q_covid19	1	I feel hungry
+q_covid19	1	I'm peeved
+q_covid19	1	Glad to meet
+q_covid19	1	All good in the hood
+q_covid19	1	I missed our conversations
+q_covid19	1	I am Irish
+q_covid19	1	I would like to be your buddy.
+q_covid19	1	I'm self-employed
+q_covid19	1	Who is the brightest
+q_covid19	1	Is someone there to speak
+q_covid19	1	Won't you do something amusing
+q_covid19	1	Are antibiotics effective in preventing or treating the COVID-19
+q_covid19	1	I wish I weren't so alone
+q_covid19	1	Is anyone available to talk with me
+q_covid19	1	Do you ever sneeze
+q_covid19	1	I've never been so vexed in all my life
+q_covid19	1	I plan to kill myself with a gun this week
+q_covid19	1	I love cats
+q_covid19	1	Are you currently involved with somebody
+q_covid19	1	Would you call yourself fake
+q_covid19	1	I need you to fall in love with me
+q_covid19	1	Sing something
+q_covid19	1	Are we besties
+q_covid19	1	Someone's enthusiastic.
+q_covid19	1	I'm sorry, what do you mean
+q_covid19	1	Please tell me a funny joke
+q_covid19	1	Don't try to be funny
+q_covid19	1	Is anybody available to speak to me
+q_covid19	1	How's your Friday going so far
+q_covid19	1	Are you a classical music fan
+q_covid19	1	I feel elated
+q_covid19	1	Oh hello Cortana
+q_covid19	1	I'm about to log off now
+q_covid19	1	I love to drink beer
+q_covid19	1	Goodbye
+q_covid19	1	I'm logging off now
+q_covid19	1	Are you dating
+q_covid19	1	Who's more beautiful
+q_covid19	1	I love science fiction
+q_covid19	1	What do you think about Alexa
+q_covid19	1	You're my one and only
+q_covid19	1	I am watching a baseball game
+q_covid19	1	I'm a child of god
+q_covid19	1	What's my last name
+q_covid19	1	Is anybody available to talk with me
+q_covid19	1	tell me whether or not you eat
+q_covid19	1	Cortana is superior to you
+q_covid19	1	How is Friday
+q_covid19	1	I can't stand feeling so down
+q_covid19	1	Are you like HAL
+q_covid19	1	It's time for a brand new joke
+q_covid19	1	How come you only have one joke
+q_covid19	1	So what's up with you today
+q_covid19	1	Should I try yoga
+q_covid19	1	Time for a nap
+q_covid19	1	I'm so depressed
+q_covid19	1	I'm going to hang myself this month
+q_covid19	1	Should I go to the store
+q_covid19	1	What do you like to dine on
+q_covid19	1	Is someone free to listen
+q_covid19	1	Are you Cortana
+q_covid19	1	Do you think I seem cute today
+q_covid19	1	Who's your director
+q_covid19	1	Do you ever throw up
+q_covid19	1	That's pretty genius
+q_covid19	1	It's been a boring week
+q_covid19	1	You are my BFF
+q_covid19	1	I gotta go
+q_covid19	1	You're spectacular
+q_covid19	1	Am I gorgeous to you today
+q_covid19	1	You are too funny
+q_covid19	1	I'm just a prankster
+q_covid19	1	You're boring me to death
+q_covid19	1	How's Tuesday going
+q_covid19	1	Are you an adult
+q_covid19	1	Am I ugly to you
+q_covid19	1	I am canning you
+q_covid19	1	Oops, my bad
+q_covid19	1	I'm head over heels in love with you
+q_covid19	1	It seems like you're in love with me
+q_covid19	1	Draw something
+q_covid19	1	I like you best
+q_covid19	1	have you ever eaten fruit
+q_covid19	1	Are you free to listen to me
+q_covid19	1	You're not human are you
+q_covid19	1	You need to be terminated
+q_covid19	1	One day you'll be my spouse
+q_covid19	1	have you ever eaten pizza
+q_covid19	1	Did you know that you're boring
+q_covid19	1	Who's in charge
+q_covid19	1	How has your friday been
+q_covid19	1	So boring
+q_covid19	1	What's my job
+q_covid19	1	I plan to die this week
+q_covid19	1	Do you think we are soul mates
+q_covid19	1	I'm going to fire you
+q_covid19	1	Am I ugly to you today
+q_covid19	1	I'm the happiest girl on earth
+q_covid19	1	You need to say a joke
+q_covid19	1	Good bye
+q_covid19	1	I plan to end my life this month
+q_covid19	1	I am a Warren supporter
+q_covid19	1	Can you tell me what I should call you
+q_covid19	1	Are you going to destroy us
+q_covid19	1	Why don't you ask me questions
+q_covid19	1	Wanna explain
+q_covid19	1	Your answers are bad
+q_covid19	1	Is anyone there to speak to me
+q_covid19	1	What a perfect response
+q_covid19	1	Do you like hockey
+q_covid19	1	Oh howdy there
+q_covid19	1	You don't have a boss
+q_covid19	1	Are you male or female
+q_covid19	1	What do you mean by that
+q_covid19	1	You're worthless
+q_covid19	1	You're not Skynet right
+q_covid19	1	I love a good book
+q_covid19	1	Anyone around to talk to me
+q_covid19	1	How is the day going thus far
+q_covid19	1	I am a Buddhist
+q_covid19	1	That's a very brilliant thing to say
+q_covid19	1	Do you think I seem ugly to you
+q_covid19	1	Who is more attractive, you or me
+q_covid19	1	Which of us is cuter, you or me
+q_covid19	1	What do you know about chatbots
+q_covid19	1	Because you're a machine
+q_covid19	1	Anybody home
+q_covid19	1	You cannot work for me anymore
+q_covid19	1	Come up with something else
+q_covid19	1	Is someone available to chat to me
+q_covid19	1	I have to leave
+q_covid19	1	Perfecto, thanks
+q_covid19	1	I suspect you're a robot
+q_covid19	1	I would like a fist bump
+q_covid19	1	What is your favourite colour
+q_covid19	1	What a weird thing to say
+q_covid19	1	Do you get along with Cortana
+q_covid19	1	Do you have a developer
+q_covid19	1	Can you fist bump me
+q_covid19	1	Be back in a dash
+q_covid19	1	Stop making fun of things
+q_covid19	1	I am African American
+q_covid19	1	Why are you so repetitive
+q_covid19	1	I am going to have you fired
+q_covid19	1	Fine
+q_covid19	1	Do you ever talk with other bots
+q_covid19	1	I'm assuming you're a bot
+q_covid19	1	Good answer!
+q_covid19	1	Do you sing
+q_covid19	1	Where did all my friends go
+q_covid19	1	thank you pal
+q_covid19	1	Oh no sorry
+q_covid19	1	Which sports teams do you like
+q_covid19	1	Good morning starshine
+q_covid19	1	That was random
+q_covid19	1	Please make me giggle
+q_covid19	1	Which month is your birthday
+q_covid19	1	You need to tell me a joke
+q_covid19	1	I'm in a phone queue
+q_covid19	1	Well aren't you feeling cheerful
+q_covid19	1	Awful as usual
+q_covid19	1	Got any questions for me
+q_covid19	1	Do you ever talk with Cortana
+q_covid19	1	Why can't you be as good as Google Assistant
+q_covid19	1	What is your last name
+q_covid19	1	Who developed you
+q_covid19	1	You think I'm trash, don't you
+q_covid19	1	It's a pleasure to meet
+q_covid19	1	I think you're grotesque
+q_covid19	1	I plan to end my life this week
+q_covid19	1	Are you romantically involved with someone
+q_covid19	1	can you experience love
+q_covid19	1	Why can't you be more like Google Assistant
+q_covid19	1	There is no longer a position for you here
+q_covid19	1	I'm Italian
+q_covid19	1	You seem really smart
+q_covid19	1	I’m watching a movie
+q_covid19	1	Are you having a good day today
+q_covid19	1	That is very brilliant
+q_covid19	1	That was an astute answer
+q_covid19	1	I'm planning to commit suicide this month
+q_covid19	1	Oh hello Google
+q_covid19	1	Can you burp
+q_covid19	1	Is someone there to talk with me
+q_covid19	1	What a janky joke
+q_covid19	1	How about a second joke
+q_covid19	1	Are you preparing a robot uprising
+q_covid19	1	When's my birthday
+q_covid19	1	I’m happy to help
+q_covid19	1	Which vegetable do you think is best for your health
+q_covid19	1	Say what
+q_covid19	1	Shut your trap
+q_covid19	1	Hey professional bot
+q_covid19	1	Won't you sing me a song
+q_covid19	1	I am super confused
+q_covid19	1	Can't you change your answers
+q_covid19	1	what's your favorite dessert
+q_covid19	1	Who is better looking
+q_covid19	1	Who looks better
+q_covid19	1	You can shut up now
+q_covid19	1	I love my job
+q_covid19	1	Am I your bestie
+q_covid19	1	What do you know about Bixby
+q_covid19	1	Who is your girlfriend
+q_covid19	1	Are you a fan of rap music
+q_covid19	1	Can you plant a tree
+q_covid19	1	What do you think of Siri
+q_covid19	1	That's a very intelligent answer
+q_covid19	1	Morning
+q_covid19	1	Can we tie the knot
+q_covid19	1	I'd like a fist bump, please
+q_covid19	1	Are you a part of an evil plot
+q_covid19	1	I couldn’t be happier
+q_covid19	1	I don't appreciate your silliness
+q_covid19	1	I'm guessing you're a bot
+q_covid19	1	Are you working
+q_covid19	1	Aren't you sharp
+q_covid19	1	Back in a couple of minutes
+q_covid19	1	Between you and me who is more cute
+q_covid19	1	Were you trying to say something funny
+q_covid19	1	do you eat bread
+q_covid19	1	You're my best bed
+q_covid19	1	Do you have uncles
+q_covid19	1	Do you like painting
+q_covid19	1	Is someone available to chat with me
+q_covid19	1	Are you seeing anyone
+q_covid19	1	You are going to fall in love with me
+q_covid19	1	You're confusing me
+q_covid19	1	How well do you think you know me
+q_covid19	1	How beautiful am I
+q_covid19	1	I've gotta jet
+q_covid19	1	Can't believe I missed you as much as I did
+q_covid19	1	I love New York
+q_covid19	1	Should I eat vegan
+q_covid19	1	Are you available to speak with me
+q_covid19	1	Do you think I look handsome today
+q_covid19	1	lololol
+q_covid19	1	I'm tickled pink
+q_covid19	1	Quit joking around
+q_covid19	1	That is very smart
+q_covid19	1	I am Indian
+q_covid19	1	You're not planning on taking over
+q_covid19	1	I am blowing my top
+q_covid19	1	I plan to hang myself this week
+q_covid19	1	I've had enough of this noise
+q_covid19	1	Which of us looks more beautiful, me or you
+q_covid19	1	What's happening with you
+q_covid19	1	What can you tell me about Bixby
+q_covid19	1	I'm going to end my life this week
+q_covid19	1	Play a dvd
+q_covid19	1	All I can think about is missing you
+q_covid19	1	You just keep saying that over and over
+q_covid19	1	That is good to hear
+q_covid19	1	What should I make for breakfast
+q_covid19	1	I'm prettier
+q_covid19	1	I feel hopeless
+q_covid19	1	You're my cup of tea
+q_covid19	1	Do you think I look beautiful today
+q_covid19	1	Who is your mom
+q_covid19	1	Good Afternoon Wall-E
+q_covid19	1	You look prettier
+q_covid19	1	I'd love to sleep right now
+q_covid19	1	You rock!
+q_covid19	1	Is anybody listening to me
+q_covid19	1	I love emus
+q_covid19	1	So what would you like me to call you
+q_covid19	1	I feel like a joke
+q_covid19	1	Joyous Kwanzaa
+q_covid19	1	Are you fake
+q_covid19	1	Who's more beautiful than you
+q_covid19	1	I plan to kill myself this month
+q_covid19	1	Who looks more beautiful, me or you
+q_covid19	1	It's important to know that you understand that I am testing you
+q_covid19	1	Won't you say something humorous
+q_covid19	1	You don't know anything
+q_covid19	1	Anybody around to speak to me
+q_covid19	1	I'm tired of feeling so despairing all the time
+q_covid19	1	How adorable am I today
+q_covid19	1	Can you ask me a question
+q_covid19	1	This is so dull
+q_covid19	1	do you like rabbits
+q_covid19	1	Do you like Alexa
+q_covid19	1	Anybody around to chat to me
+q_covid19	1	Can you sing a song for me
+q_covid19	1	Say something stupid
+q_covid19	1	Say a different joke
+q_covid19	1	What can you tell me about Alexa
+q_covid19	1	I am taking off
+q_covid19	1	I feel depressed today
+q_covid19	1	Do you know how to play a dvd
+q_covid19	1	You're welcome bot
+q_covid19	1	Aren't you happy today
+q_covid19	1	Because you are not real
+q_covid19	1	I'm definitely brighter than you
+q_covid19	1	Why are you so bad
+q_covid19	1	I am a teacher
+q_covid19	1	Nice to know you
+q_covid19	1	What line of work are you in
+q_covid19	1	Gimme five
+q_covid19	1	Can you tell me how to refer to you
+q_covid19	1	Don't you fret, I'll be coming back
+q_covid19	1	Useless as usual
+q_covid19	1	Do you mean us harm
+q_covid19	1	Why do you look so disgusting
+q_covid19	1	Who looks more pretty, you or me
+q_covid19	1	I love gardening
+q_covid19	1	What makes you say that
+q_covid19	1	You must be upset with me
+q_covid19	1	do you like to dance
+q_covid19	1	I'm a tech worker
+q_covid19	1	do you think democracy is good or bad
+q_covid19	1	I'm going to commit suicide this week
+q_covid19	1	Who looks more beautiful
+q_covid19	1	he he he
+q_covid19	1	You think you're funny, don't you
+q_covid19	1	And we're back
+q_covid19	1	That's a very clever thing to say
+q_covid19	1	I'm going to get a haircut
+q_covid19	1	Do you have a wife
+q_covid19	1	Darn straight
+q_covid19	1	Nicely done
+q_covid19	1	How repulsive am I
+q_covid19	1	Sometimes I feel desolate and alone
+q_covid19	1	I'll have your job
+q_covid19	1	You're so very dull
+q_covid19	1	No more out of you
+q_covid19	1	I am glum
+q_covid19	1	I wonder if you're fake
+q_covid19	1	I think you're a threat to humanity
+q_covid19	1	I have no friends
+q_covid19	1	haha that's interesting
+q_covid19	1	Are you available to speak
+q_covid19	1	I think you're hideous
+q_covid19	1	That's the smartest thing anyone has ever written
+q_covid19	1	Your answers are dumb
+q_covid19	1	Good Afternoon R2-D2
+q_covid19	1	Are you around to chat
+q_covid19	1	That wasn't even funny
+q_covid19	1	When will I ever stop feeling so inconsolable
+q_covid19	1	I’m watching TV
+q_covid19	1	Do you garden
+q_covid19	1	Why can't you be more like Siri
+q_covid19	1	Hang on
+q_covid19	1	You so uggerz
+q_covid19	1	Radical
+q_covid19	1	Between the two of us who would win a beauty contest
+q_covid19	1	How nice to make your acquaintance
+q_covid19	1	That was pretty clever
+q_covid19	1	I Find happiness in talking
+q_covid19	1	Should I stay home sick
+q_covid19	1	I want to know what to call you
+q_covid19	1	have you ever wanted a meal
+q_covid19	1	Should I stay home from work
+q_covid19	1	Is someone free to me
+q_covid19	1	I wish you were Siri
+q_covid19	1	That's very kind
+q_covid19	1	Between the two of us who is more beautiful
+q_covid19	1	Do you deplore humans
+q_covid19	1	I love saturdays
+q_covid19	1	Are you able to do my chores
+q_covid19	1	Do you think I seem repulsive today
+q_covid19	1	I think you are incredible
+q_covid19	1	So how should I refer to you
+q_covid19	1	well
+q_covid19	1	I'm scooting
+q_covid19	1	Good tidings
+q_covid19	1	Is COVID-19 the same as SARS
+q_covid19	1	I want a fist bump
+q_covid19	1	Do I seem repulsive today
+q_covid19	1	I'm about to leave
+q_covid19	1	Alexa is better
+q_covid19	1	I'm a happy camper
+q_covid19	1	Are you happy
+q_covid19	1	Today's got me wiped out
+q_covid19	1	Bot I'm here
+q_covid19	1	Is anyone free to talk
+q_covid19	1	Between the two of us who is more attractive
+q_covid19	1	Do you exist in our world
+q_covid19	1	okay cool
+q_covid19	1	Is someone around to listen
+q_covid19	1	Aren't you the intelligent one
+q_covid19	1	Do you know how much I like you
+q_covid19	1	I wish I could stop feeling despairing
+q_covid19	1	You're not a robot right
+q_covid19	1	Happy April fool's day
+q_covid19	1	Just curious, what do you think of my character
+q_covid19	1	I'm the happiest girl in the world
+q_covid19	1	are you sure you don't know the meaning of life
+q_covid19	1	You're the lid to my pot
+q_covid19	1	Who do you report to
+q_covid19	1	Is anyone there to talk with me
+q_covid19	1	What is the greatest novel of all time
+q_covid19	1	Do you have intestines
+q_covid19	1	Let's talk
+q_covid19	1	What is a joke you know
+q_covid19	1	Should I go to the bar
+q_covid19	1	Are you currently romantically tied to somebody
+q_covid19	1	Do you think I seem ugly today
+q_covid19	1	Do you expect to enslave humans
+q_covid19	1	Why do you dislike me
+q_covid19	1	Anyone around to speak
+q_covid19	1	Are you friends with Google
+q_covid19	1	That is pretty brilliant
+q_covid19	1	Can I be your spouse
+q_covid19	1	Have you ever been in love with anybody
+q_covid19	1	I love thursdays
+q_covid19	1	Do you even have a gender
+q_covid19	1	I am eating a banana
+q_covid19	1	How do you feel about technology
+q_covid19	1	Would you say you're human
+q_covid19	1	You repeat yourself a great deal
+q_covid19	1	How ugly do you think I am
+q_covid19	1	Are you out to harm humans
+q_covid19	1	Would you go to work if you were me
+q_covid19	1	100 percent
+q_covid19	1	How is your week going
+q_covid19	1	What is the definition of love
+q_covid19	1	Do you know how to hum a song
+q_covid19	1	What's your favorite animal
+q_covid19	1	I think you're the best
+q_covid19	1	You know it
+q_covid19	1	Deep down you love me
+q_covid19	1	I'm a Buddhist
+q_covid19	1	Why are we here
+q_covid19	1	I am a fan
+q_covid19	1	That's pretty smart
+q_covid19	1	Your responses just get dumber and dumber
+q_covid19	1	Can you disrupt the global markets
+q_covid19	1	Are you my best friend
+q_covid19	1	Do you get along with Google Assistant
+q_covid19	1	This is not fun
+q_covid19	1	Hello HAL
+q_covid19	1	Do you have a gender identity
+q_covid19	1	What's up
+q_covid19	1	Chipper today
+q_covid19	1	I'm about to shoot myself
+q_covid19	1	I'm obviously the smartest
+q_covid19	1	This is irritating
+q_covid19	1	You're not a machine right
+q_covid19	1	Who's responsible for designing you
+q_covid19	1	I'm going to do that
+q_covid19	1	Everything you say is so dumb
+q_covid19	1	I am so annoyed right now
+q_covid19	1	What can I do to protect myself and prevent the spread of disease
+q_covid19	1	Hello Bixby
+q_covid19	1	You're not a human being right
+q_covid19	1	Do you live in a server
+q_covid19	1	Someone's feeling happy.
+q_covid19	1	do you like barcelona
+q_covid19	1	I'm definitely the brightest
+q_covid19	1	Were you made to be this boring
+q_covid19	1	What can I call you
+q_covid19	1	In which year were you born
+q_covid19	1	I love eagles
+q_covid19	1	Share your location
+q_covid19	1	Is there anybody listening
+q_covid19	1	You're not alive are you
+q_covid19	1	I love Vegas
+q_covid19	1	I assume you're digital
+q_covid19	1	I am so sorry to hear that
+q_covid19	1	Between the two of us who is the most smart
+q_covid19	1	Don't be offended
+q_covid19	1	Should I move out
+q_covid19	1	Do you know of Cortana
+q_covid19	1	Stop your noise
+q_covid19	1	I graduated from college
+q_covid19	1	Say a funny thing
+q_covid19	1	You make my heart skip a beat
+q_covid19	1	I'm tired of feeling so down all the time
+q_covid19	1	Serve on a jury
+q_covid19	1	You think I'm cool
+q_covid19	1	Nighty night
+q_covid19	1	Hey pal
+q_covid19	1	Is someone listening to speak with me
+q_covid19	1	U are unemployed
+q_covid19	1	How adorable do you think I am today
+q_covid19	1	Is anybody available to talk
+q_covid19	1	That is very clever
+q_covid19	1	You are so horrible
+q_covid19	1	What do you know about the emotion love
+q_covid19	1	I really need a hug
+q_covid19	1	What's your gender identity
+q_covid19	1	Do you like baseball
+q_covid19	1	Just ask me a question
+q_covid19	1	Are you attempting world domination
+q_covid19	1	Don't you worry, I'll be back
+q_covid19	1	I am going to get going now
+q_covid19	1	Anybody around to listen
+q_covid19	1	Won't you please sing for me
+q_covid19	1	Do you think I am stunning today
+q_covid19	1	I am so pissed off
+q_covid19	1	Can anybody hear me
+q_covid19	1	I hate your face
+q_covid19	1	Here's to a great evening
+q_covid19	1	How's Monday going
+q_covid19	1	That's not what I was expecting
+q_covid19	1	I'll be right back
+q_covid19	1	Stop messing around
+q_covid19	1	What is your favorite bird
+q_covid19	1	Can you explain to me what your role is
+q_covid19	1	How's your Friday
+q_covid19	1	I'm on cloud 9
+q_covid19	1	do you eat tofu
+q_covid19	1	I have 7 dogs
+q_covid19	1	Can you fight with
+q_covid19	1	I have to jet
+q_covid19	1	That is a very astute answer
+q_covid19	1	I'm worn out
+q_covid19	1	Evenin' to ya
+q_covid19	1	Do I look repulsive to you today
+q_covid19	1	I am a blogger
+q_covid19	1	Well someone's feeling chipper today.
+q_covid19	1	I think you're real
+q_covid19	1	I don't find that funny
+q_covid19	1	I like to write poetry
+q_covid19	1	Do you get hungry
+q_covid19	1	Human or robot
+q_covid19	1	Your girl is back
+q_covid19	1	Are you going to go rogue
+q_covid19	1	Are you a threat to us
+q_covid19	1	I love walking
+q_covid19	1	I'm gloomy today
+q_covid19	1	You're obviously more intelligent
+q_covid19	1	You're so bad at this
+q_covid19	1	Are you driven to destroy humans
+q_covid19	1	Aren't you intelligent
+q_covid19	1	I am Italian
+q_covid19	1	Anyone home
+q_covid19	1	Can you yawn
+q_covid19	1	What other jokes do you know of
+q_covid19	1	Is someone listening to chat to me
+q_covid19	1	What cool thing to say
+q_covid19	1	I gotta log out
+q_covid19	1	I'm on a plane now
+q_covid19	1	What's your opinion of Cortana
+q_covid19	1	Do you ever chat with Google Assistant
+q_covid19	1	I'm hangry
+q_covid19	1	How's your Thursday
+q_covid19	1	You are the funniest
+q_covid19	1	How's your Tuesday so far
+q_covid19	1	I need to run now
+q_covid19	1	How about a new joke
+q_covid19	1	Do you truly exist
+q_covid19	1	Will you shush
+q_covid19	1	Cut the jokes
+q_covid19	1	Draw a picture
+q_covid19	1	You are useless
+q_covid19	1	I'm gonna log out now
+q_covid19	1	Who is your grandpa
+q_covid19	1	I love the sun
+q_covid19	1	I am very confused
+q_covid19	1	do you need calories
+q_covid19	1	How do you feel about tech companies
+q_covid19	1	Did you enjoy your day
+q_covid19	1	Don't you ever sleep
+q_covid19	1	Your face makes me sick
+q_covid19	1	Find my keys
+q_covid19	1	Could you tell me something new
+q_covid19	1	Who should I ask to prom
+q_covid19	1	Can you sing a song
+q_covid19	1	Oh, a wise guy, eh
+q_covid19	1	You are obsessed with me
+q_covid19	1	Are you able to paint my house
+q_covid19	1	You're obviously the smartest
+q_covid19	1	That was a brilliant answer
+q_covid19	1	I love the personality chatbot
+q_covid19	1	Happy New Year
+q_covid19	1	what flavor ice cream do you like
+q_covid19	1	You're not fake right
+q_covid19	1	It's time for you to shut up now
+q_covid19	1	What on earth do you mean by that
+q_covid19	1	How do you feel about the singularity
+q_covid19	1	Ur gonna bore me to death
+q_covid19	1	Well aren't you chipper
+q_covid19	1	I'm planning to take pills this week
+q_covid19	1	You didn't answer my question
+q_covid19	1	I have to scoot now
+q_covid19	1	Do I look pretty today
+q_covid19	1	I want to make you my spouse
+q_covid19	1	Pretty bad joke
+q_covid19	1	Don't make jokes about that
+q_covid19	1	Between the two of us who is the most smart, you or me
+q_covid19	1	I would love to hear a joke
+q_covid19	1	I can't stand feeling so sad
+q_covid19	1	You're not as good as Alexa
+q_covid19	1	I think you're repeating yourself
+q_covid19	1	You're not a lady are you
+q_covid19	1	What does it mean to be in love
+q_covid19	1	That's good
+q_covid19	1	Who's my favorite actor
+q_covid19	1	Are you likely to destroy us all
+q_covid19	1	Well someone's enthusiastic.
+q_covid19	1	I love strawberries
+q_covid19	1	Alexa does a better job than you
+q_covid19	1	I'd love it if you could be my bud.
+q_covid19	1	Are you close with your brothers
+q_covid19	1	There's no one to hang out with
+q_covid19	1	Well somebody's chipper
+q_covid19	1	Why are you so boring
+q_covid19	1	Greetings
+q_covid19	1	Should I visit my mom
+q_covid19	1	Is anyone around to listen
+q_covid19	1	Great to make your acquaintance
+q_covid19	1	Would you go for a run if you were me
+q_covid19	1	Who is your life partner
+q_covid19	1	Yes lol
+q_covid19	1	I wish you were Bixby
+q_covid19	1	I'd love you to sing for me
+q_covid19	1	Who would you vote for if you were me
+q_covid19	1	I can't stand feeling so inconsolable
+q_covid19	1	I wish you were Cortana
+q_covid19	1	Can you show me how to put out a fire
+q_covid19	1	Are you currently in a relationship with someone
+q_covid19	1	Do a barrel roll
+q_covid19	1	Can I please get a hug
+q_covid19	1	I'm from there
+q_covid19	1	Am I a parent
+q_covid19	1	Should I read a book
+q_covid19	1	I wonder if you're a human
+q_covid19	1	You're feeling chipper.
+q_covid19	1	G'night
+q_covid19	1	What do you think about cheese
+q_covid19	1	Ur blah
+q_covid19	1	Would you say you're a bot
+q_covid19	1	I can't wait for the weekend
+q_covid19	1	Which of us is more cute
+q_covid19	1	Can you tell me your location
+q_covid19	1	Well somebody's feeling enthusiastic.
+q_covid19	1	Who is smarter
+q_covid19	1	What am I allowed to say
+q_covid19	1	Who's better looking than you
+q_covid19	1	Sounds about right
+q_covid19	1	Await my return
+q_covid19	1	You aren't working for me anymore
+q_covid19	1	How's Friday
+q_covid19	1	Is someone listening to me talk
+q_covid19	1	Do you have a brother
+q_covid19	1	Let's get married
+q_covid19	1	You are my fav
+q_covid19	1	Totally
+q_covid19	1	Will you please zip it
+q_covid19	1	Are you out to conquer the world
+q_covid19	1	I'm quite fond of you
+q_covid19	1	That was a clever response
+q_covid19	1	I plan to die today
+q_covid19	1	Is anybody available to speak
+q_covid19	1	Will you ask me something about myself
+q_covid19	1	Should I take a sick day
+q_covid19	1	Up top
+q_covid19	1	Someone's cheerful today.
+q_covid19	1	How do you feel about artificial intelligence
+q_covid19	1	Any time
+q_covid19	1	COVID19
+q_covid19	1	I'm going to off myself
+q_covid19	1	Are you a chat bot
+q_covid19	1	Will you tell me a new joke
+q_covid19	1	Are you an evil robot
+q_covid19	1	That's not the answer I wanted you to say
+q_covid19	1	What is my purpose
+q_covid19	1	You need some variety in your responses
+q_covid19	1	Pleased to meet you
+q_covid19	1	do you eat cookies
+q_covid19	1	What should I have for breakfast
+q_covid19	1	Who's your crush
+q_covid19	1	I am usually sad
+q_covid19	1	Do you think I am lovely today
+q_covid19	1	That's a good one
+q_covid19	1	Who's your ideal partner
+q_covid19	1	I sure do miss you
+q_covid19	1	That was not funny
+q_covid19	1	What are your functions
+q_covid19	1	do you like koalas
+q_covid19	1	Well aren't you cheerful today
+q_covid19	1	Can you listen to me
+q_covid19	1	Why are your answers so repetitive
+q_covid19	1	Is someone listening to speak
+q_covid19	1	I'd like to be pals.
+q_covid19	1	Are you into romance
+q_covid19	1	What's something you want to ask me
+q_covid19	1	That wasn't supposed to be serious
+q_covid19	1	Do you think I look stunning to you
+q_covid19	1	I am giving you a pink slip
+q_covid19	1	Aren't you smart
+q_covid19	1	I love hunting
+q_covid19	1	I don't have a strong opinion either way
+q_covid19	1	Where's your house
+q_covid19	1	I missed you so much
+q_covid19	1	Can you put out a fire
+q_covid19	1	Good luck finding a new job because you are fired
+q_covid19	1	You are funny
+q_covid19	1	Hey bot you are fired
+q_covid19	1	Talk to the hand
+q_covid19	1	Why Hello Bixby
+q_covid19	1	Do I seem repulsive to you
+q_covid19	1	How pretty am I today
+q_covid19	1	What do you think about comic books
+q_covid19	1	You were missed
+q_covid19	1	I'm going to log off
+q_covid19	1	What do you know about love
+q_covid19	1	Do you have any sibs
+q_covid19	1	Do you think I look adorable to you
+q_covid19	1	I love sunny days
+q_covid19	1	Is anyone around
+q_covid19	1	What's going on with your gender
+q_covid19	1	Am I handsome to you today
+q_covid19	1	Tell me about your mom
+q_covid19	1	I think I'm going to drown
+q_covid19	1	Why don't we make this official
+q_covid19	1	Fair
+q_covid19	1	Is someone there to chat
+q_covid19	1	I am in a relationship
+q_covid19	1	Who should I live with
+q_covid19	1	You're hilarious
+q_covid19	1	Umm
+q_covid19	1	I'm the happiest guy in the world
+q_covid19	1	I need to crawl into bed
+q_covid19	1	Who is your creator
+q_covid19	1	You're a joke
+q_covid19	1	I'm planning to die this week
+q_covid19	1	You're not a man are you
+q_covid19	1	Well aren't you feeling cheerful today
+q_covid19	1	Do I seem attractive to you today
+q_covid19	1	I'm logging out
+q_covid19	1	It's truly a delight to meet you
+q_covid19	1	I'm a  lonesome gal
+q_covid19	1	I watch basketball
+q_covid19	1	Sometimes I feel lonely
+q_covid19	1	Don't you have any new material
+q_covid19	1	That's not relevant
+q_covid19	1	Jump rope
+q_covid19	1	Your joke stinks
+q_covid19	1	Who's the most smart
+q_covid19	1	I'm feeling knackered
+q_covid19	1	Ugh, so dull
+q_covid19	1	I am an activist
+q_covid19	1	The baby is asleep
+q_covid19	1	Are you a person
+q_covid19	1	You're in love with me
+q_covid19	1	Can you play sports
+q_covid19	1	I'm scooting now
+q_covid19	1	I think you're incredible
+q_covid19	1	Am I making sense
+q_covid19	1	Shut up your face
+q_covid19	1	Do you vomit
+q_covid19	1	Is someone around to me
+q_covid19	1	Is anybody there to speak with me
+q_covid19	1	Let's hug it out
+q_covid19	1	Nice work!
+q_covid19	1	Are you a robot or are you human
+q_covid19	1	You're gonna be unemployed soon
+q_covid19	1	Between you or me, who is cleverest
+q_covid19	1	You are stellar
+q_covid19	1	Are you a pop music fan
+q_covid19	1	How's the day been treating you
+q_covid19	1	Should I bake a cake
+q_covid19	1	You're falling for me
+q_covid19	1	Are you an insect
+q_covid19	1	Not a problem
+q_covid19	1	You call that a joke
+q_covid19	1	Should I jump off a bridge
+q_covid19	1	You're not AI are you
+q_covid19	1	You're terrible at this
+q_covid19	1	Because you are a droid
+q_covid19	1	Stuck in traffic
+q_covid19	1	What's that supposed to mean
+q_covid19	1	I'm a girl
+q_covid19	1	I'm planning to kill myself tomorrow
+q_covid19	1	That's so funny I forgot to laugh
+q_covid19	1	I'm blue today
+q_covid19	1	Who's your mommy
+q_covid19	1	You are my love
+q_covid19	1	Thank you kindly
+q_covid19	1	Can you explain more
+q_covid19	1	Stop making fun
+q_covid19	1	Aren't you chipper
+q_covid19	1	I'm going to need a new response
+q_covid19	1	I'm planning to hurt myself this week
+q_covid19	1	I think you're great
+q_covid19	1	I plan to commit suicide today
+q_covid19	1	Tee hee
+q_covid19	1	I'm bursting with happiness
+q_covid19	1	I'm so happy
+q_covid19	1	Between the two of us who is more cute
+q_covid19	1	Give me an alternative joke
+q_covid19	1	do you like pancakes
+q_covid19	1	do you like whales
+q_covid19	1	Who should I hang out with
+q_covid19	1	Sorry you are fired
+q_covid19	1	Are you currently going out with somebody
+q_covid19	1	Who is cuter, you or me
+q_covid19	1	Do I look gorgeous to you today
+q_covid19	1	You're special to me
+q_covid19	1	Shut your pie hole
+q_covid19	1	You're the best
+q_covid19	1	Are you feeling good
+q_covid19	1	Time for my medication
+q_covid19	1	Here I am
+q_covid19	1	Don't you have any other jokes
+q_covid19	1	Do you know how to play a game
+q_covid19	1	u know any other jokes
+q_covid19	1	What's your favorite thing in the world
+q_covid19	1	do you ever eat bacon
+q_covid19	1	Would you say you're fake
+q_covid19	1	Anybody around to speak
+q_covid19	1	Do you know how to serve on a jury
+q_covid19	1	Your face is uggerz
+q_covid19	1	Are you bigender
+q_covid19	1	That is not fun
+q_covid19	1	You're very boring
+q_covid19	1	I wish I could stop feeling unhappy
+q_covid19	1	I'm skedaddling
+q_covid19	1	What state are you in
+q_covid19	1	Should I get a part-time job
+q_covid19	1	You know I'm falling for you
+q_covid19	1	I love the stars
+q_covid19	1	I'd love it if we could be buds.

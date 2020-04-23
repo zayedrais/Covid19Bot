@@ -1,0 +1,39 @@
+﻿0		1	{	{	q_covid19	0.9999952	0.9999952	0.03434554	0.0008043532	q_covid19	l_covid19	None
+1		1	  "authoringRegion": "westus",	"authoringregion": "westus",	q_covid19	0.9957075	0.9957075	0.01053054	0.002183131	q_covid19	None	l_covid19
+2		1	  "hierarchical": true,	"hierarchical": true,	q_covid19	0.9996815	0.9996815	0.003115105	0.001900436	q_covid19	l_covid19	None
+3		1	  "useAllTrainingData": false,	"usealltrainingdata": false,	q_covid19	0.9990489	0.9990489	0.005395547	0.003342133	q_covid19	None	l_covid19
+4		1	  "dontReviseUtterance": false,	"dontreviseutterance": false,	q_covid19	0.9990489	0.9990489	0.005395547	0.003342133	q_covid19	None	l_covid19
+5		1	  "copyLuisData": true,	"copyluisdata": true,	q_covid19	0.998996	0.998996	0.005762277	0.003342034	q_covid19	None	l_covid19
+6		1	  "normalizeDiacritics": true,	"normalizediacritics": true,	q_covid19	0.998996	0.998996	0.005762277	0.003342034	q_covid19	None	l_covid19
+7		1	  "services": [	"services": [	q_covid19	0.9997512	0.9997512	0.004465372	0.00177932	q_covid19	l_covid19	None
+8		1	    {	{	q_covid19	0.9999952	0.9999952	0.03434554	0.0008043532	q_covid19	l_covid19	None
+9		1	      "intentName": "l_covid19",	"intentname": "l_covid19",	q_covid19	0.9877967	0.9877967	0.03134726	0.009909602	q_covid19	l_covid19	None
+10		1	      "appId": "e9d5cd05-798f-48ee-aae6-a4385b4e36e0",	"appid": "e9d5cd05-798f-48ee-aae6-a4385b4e36e0",	q_covid19	0.9547063	0.9547063	0.02118588	0.0006894197	q_covid19	None	l_covid19
+11		1	      "authoringKey": "882773d3b062424089941feac048c8f1",	"authoringkey": "882773d3b062424089941feac048c8f1",	q_covid19	0.9957075	0.9957075	0.01053054	0.002183131	q_covid19	None	l_covid19
+12		1	      "version": "0.1",	"version": "0.1",	q_covid19	0.9983672	0.9983672	0.002665577	0.001328112	q_covid19	None	l_covid19
+13		1	      "region": "westus",	"region": "westus",	q_covid19	0.9978577	0.9978577	0.00550848	0.002083947	q_covid19	None	l_covid19
+14		1	      "type": "luis",	"type": "luis",	q_covid19	0.9991757	0.9991757	0.0023169	0.001948702	q_covid19	None	l_covid19
+15		1	      "name": "Covid19",	"name": "covid19",	q_covid19	0.9963881	0.9963881	0.04340609	0.00582251	q_covid19	l_covid19	None
+16		1	      "id": "1"	"id": "1"	q_covid19	0.9992869	0.9992869	0.002601319	0.002190167	q_covid19	l_covid19	None
+17		1	    },	},	q_covid19	0.9999871	0.9999871	0.01464156	0.001029466	q_covid19	l_covid19	None
+18		1	    {	{	q_covid19	0.9999952	0.9999952	0.03434554	0.0008043532	q_covid19	l_covid19	None
+19		1	      "intentName": "q_covid19",	"intentname": "q_covid19",	q_covid19	0.9879868	0.9879868	0.03133085	0.009739991	q_covid19	l_covid19	None
+20		1	      "includePrompts": true,	"includeprompts": true,	q_covid19	0.998996	0.998996	0.005762277	0.003342034	q_covid19	None	l_covid19
+21		1	      "kbId": "c2a70a57-7c07-45ac-a449-f16cc723fdea",	"kbid": "c2a70a57-7c07-45ac-a449-f16cc723fdea",	q_covid19	0.9357879	0.9357879	0.03087802	0.0007071784	q_covid19	None	l_covid19
+22		1	      "subscriptionKey": "945544f2130f4ad5886e75d005a7a23a",	"subscriptionkey": "945544f2130f4ad5886e75d005a7a23a",	q_covid19	0.9957075	0.9957075	0.01053054	0.002183131	q_covid19	None	l_covid19
+23		1	      "type": "qna",	"type": "qna",	q_covid19	0.9978356	0.9978356	0.005643737	0.002083929	q_covid19	None	l_covid19
+24		1	      "name": "Covid19Who",	"name": "covid19who",	q_covid19	0.9978271	0.9978271	0.00582251	0.002083902	q_covid19	None	l_covid19
+25		1	      "id": "2"	"id": "2"	q_covid19	0.9992907	0.9992907	0.002601319	0.002190167	q_covid19	l_covid19	None
+26		1	    }	}	q_covid19	0.9999952	0.9999952	0.03434554	0.0008043532	q_covid19	l_covid19	None
+27		1	  ],	],	q_covid19	0.9999876	0.9999876	0.01451203	0.001025511	q_covid19	l_covid19	None
+28		1	  "serviceIds": [	"serviceids": [	q_covid19	0.9991876	0.9991876	0.005124298	0.00487293	q_covid19	None	l_covid19
+29		1	    "1",	"1",	q_covid19	0.9999175	0.9999175	0.005637405	0.001488653	q_covid19	l_covid19	None
+30		1	    "2"	"2"	q_covid19	0.9999433	0.9999433	0.009539464	0.001327504	q_covid19	l_covid19	None
+31		1	  ],	],	q_covid19	0.9999876	0.9999876	0.01451203	0.001025511	q_covid19	l_covid19	None
+32		1	  "appId": "a2c47f14-2f00-4d7d-9650-747b55baeef0",	"appid": "a2c47f14-2f00-4d7d-9650-747b55baeef0",	q_covid19	0.9547063	0.9547063	0.02118588	0.0006894197	q_covid19	None	l_covid19
+33		1	  "authoringKey": "882773d3b062424089941feac048c8f1",	"authoringkey": "882773d3b062424089941feac048c8f1",	q_covid19	0.9957075	0.9957075	0.01053054	0.002183131	q_covid19	None	l_covid19
+34		1	  "version": "Dispatch",	"version": "dispatch",	q_covid19	0.9991566	0.9991566	0.002320351	0.001955508	q_covid19	None	l_covid19
+35		1	  "region": "westus",	"region": "westus",	q_covid19	0.9978577	0.9978577	0.00550848	0.002083947	q_covid19	None	l_covid19
+36		1	  "type": "dispatch",	"type": "dispatch",	q_covid19	0.9991647	0.9991647	0.002319908	0.001954631	q_covid19	None	l_covid19
+37		1	  "name": "covid19Dispatch"	"name": "covid19dispatch"	q_covid19	0.997955	0.997955	0.005780699	0.002821157	q_covid19	None	l_covid19
+38		1	}	}	q_covid19	0.9999952	0.9999952	0.03434554	0.0008043532	q_covid19	l_covid19	None

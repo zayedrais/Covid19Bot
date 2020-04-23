@@ -1,0 +1,4 @@
+No	Intent	Utterance Count	Utterance Average Length	Utterance Maximum Length	Utterance Minimum Length	Utterance Length StdDev
+0	l_covid19	33	16.75758	42	4	8.58061
+1	q_covid19	9806	22.94677	81	1	8.88576
+ 	__ALL__	9839	22.92601	81	1	8.89153

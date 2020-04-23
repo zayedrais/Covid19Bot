@@ -1,0 +1,197 @@
+﻿[
+  {
+    "text": "      \"appid\": \"e9d5cd05-798f-48ee-aae6-a4385b4e36e0\",",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "      \"authoringkey\": \"882773d3b062424089941feac048c8f1\",",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "      \"id\": \"1\"",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "      \"id\": \"2\"",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "      \"includeprompts\": true,",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "      \"intentname\": \"l_covid19\",",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "      \"intentname\": \"q_covid19\",",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "      \"kbid\": \"c2a70a57-7c07-45ac-a449-f16cc723fdea\",",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "      \"name\": \"covid19\",",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "      \"name\": \"covid19who\",",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "      \"region\": \"westus\",",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "      \"subscriptionkey\": \"945544f2130f4ad5886e75d005a7a23a\",",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "      \"type\": \"luis\",",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "      \"type\": \"qna\",",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "      \"version\": \"0.1\",",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "    \"1\",",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "    \"2\"",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "    {",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "    }",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "    },",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "  \"appid\": \"a2c47f14-2f00-4d7d-9650-747b55baeef0\",",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "  \"authoringkey\": \"882773d3b062424089941feac048c8f1\",",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "  \"authoringregion\": \"westus\",",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "  \"copyluisdata\": true,",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "  \"dontreviseutterance\": false,",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "  \"hierarchical\": true,",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "  \"name\": \"covid19dispatch\"",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "  \"normalizediacritics\": true,",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "  \"region\": \"westus\",",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "  \"serviceids\": [",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "  \"services\": [",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "  \"subscriptionkey\": \"882773d3b062424089941feac048c8f1\",",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "  \"subscriptionregion\": \"westus\",",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "  \"type\": \"dispatch\",",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "  \"usealltrainingdata\": false,",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "  \"version\": \"dispatch\",",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "  ],",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "{",
+    "intent": "",
+    "entities": []
+  },
+  {
+    "text": "}",
+    "intent": "",
+    "entities": []
+  }
+]

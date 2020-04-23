@@ -1,0 +1,170 @@
+{
+    "type": "AdaptiveCard",
+    "body": [{
+        "type": "Container",
+        "items": [{
+                "type": "TextBlock",
+                "size": "Large",
+                "weight": "Bolder",
+                "color": "Accent",
+                "text": "Covid19 Live Status",
+                "horizontalAlignment": "Center",
+                "wrap": true
+            },
+            {
+                "type": "TextBlock",
+                "text": "Data is sourced from covid19api.com (Johns Hopkins CSSE)",
+                "horizontalAlignment": "Center",
+                "size": "Small",
+                "color": "Accent",
+                "weight": "Lighter",
+                "wrap": true
+            },
+            {
+                "type": "TextBlock",
+                "text": "23 Apr 2020 India",
+                "color": "Dark",
+                "horizontalAlignment": "Center",
+                "spacing": "Medium",
+                "size": "Medium",
+                "weight": "Bolder"
+            },
+            {
+                "type": "ColumnSet",
+                "columns": [{
+                        "type": "Column",
+                        "items": [{
+                                "type": "TextBlock",
+                                "horizontalAlignment": "Center",
+                                "text": "Confirmed",
+                                "wrap": true,
+                                "weight": "Bolder",
+                                "color": "Attention"
+                            },
+                            {
+                                "type": "TextBlock",
+                                "color": "Attention",
+                                "text": "▲ 10 (2.13%)",
+                                "isSubtle": true,
+                                "wrap": true,
+                                "horizontalAlignment": "Center",
+                                "size": "Small",
+                                "maxLines": 0,
+                                "spacing": "Medium"
+                            },
+                            {
+                                "type": "TextBlock",
+                                "color": "Attention",
+                                "text": "100",
+                                "isSubtle": true,
+                                "wrap": true,
+                                "horizontalAlignment": "Center",
+                                "size": "Medium",
+                                "weight": "Bolder"
+                            }
+                        ],
+                        "width": 1
+                    },
+                    {
+                        "type": "Column",
+                        "items": [{
+                                "type": "TextBlock",
+                                "weight": "Bolder",
+                                "text": "Active\n \n",
+                                "wrap": true,
+                                "horizontalAlignment": "Center",
+                                "color": "Accent"
+                            },
+                            {
+                                "type": "TextBlock",
+                                "color": "Accent",
+                                "text": "▲ 5 (2.13%)",
+                                "isSubtle": true,
+                                "wrap": true,
+                                "horizontalAlignment": "Center",
+                                "size": "Small",
+                                "spacing": "Medium"
+                            },
+                            {
+                                "type": "TextBlock",
+                                "color": "Accent",
+                                "text": "60",
+                                "isSubtle": true,
+                                "horizontalAlignment": "Center",
+                                "wrap": true,
+                                "size": "Medium",
+                                "weight": "Bolder"
+                            }
+                        ],
+                        "width": 1
+                    },
+                    {
+                        "type": "Column",
+                        "items": [{
+                                "type": "TextBlock",
+                                "weight": "Bolder",
+                                "text": "Recovered",
+                                "wrap": true,
+                                "horizontalAlignment": "Center",
+                                "color": "Good"
+                            },
+                            {
+                                "type": "TextBlock",
+                                "color": "Good",
+                                "text": "▲ 7 (2.13%)",
+                                "isSubtle": true,
+                                "wrap": true,
+                                "horizontalAlignment": "Center",
+                                "size": "Small",
+                                "spacing": "Medium"
+                            },
+                            {
+                                "type": "TextBlock",
+                                "color": "Good",
+                                "text": "35",
+                                "isSubtle": true,
+                                "wrap": true,
+                                "horizontalAlignment": "Center",
+                                "size": "Medium",
+                                "weight": "Bolder"
+                            }
+                        ],
+                        "width": 1
+                    },
+                    {
+                        "type": "Column",
+                        "items": [{
+                                "type": "TextBlock",
+                                "text": "Deceased",
+                                "wrap": true,
+                                "weight": "Bolder",
+                                "color": "Warning",
+                                "horizontalAlignment": "Center"
+                            },
+                            {
+                                "type": "TextBlock",
+                                "text": "▲ 2 (2.13%)",
+                                "color": "Warning",
+                                "size": "Small",
+                                "spacing": "Medium",
+                                "horizontalAlignment": "Center"
+                            },
+                            {
+                                "type": "TextBlock",
+                                "text": "5",
+                                "color": "Warning",
+                                "weight": "Bolder",
+                                "size": "Medium",
+                                "horizontalAlignment": "Center"
+                            }
+                        ],
+                        "width": 1
+                    }
+                ],
+                "spacing": "Medium"
+            }
+        ]
+    }],
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.0"
+}

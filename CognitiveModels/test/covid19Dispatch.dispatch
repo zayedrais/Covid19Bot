@@ -1,0 +1,39 @@
+{
+  "authoringRegion": "westus",
+  "hierarchical": true,
+  "useAllTrainingData": false,
+  "dontReviseUtterance": false,
+  "copyLuisData": true,
+  "normalizeDiacritics": true,
+  "services": [
+    {
+      "intentName": "l_covid19",
+      "appId": "e9d5cd05-798f-48ee-aae6-a4385b4e36e0",
+      "authoringKey": "882773d3b062424089941feac048c8f1",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "Covid19",
+      "id": "1"
+    },
+    {
+      "intentName": "q_covid19",
+      "includePrompts": true,
+      "kbId": "c2a70a57-7c07-45ac-a449-f16cc723fdea",
+      "subscriptionKey": "945544f2130f4ad5886e75d005a7a23a",
+      "type": "qna",
+      "name": "Covid19Who",
+      "id": "2"
+    }
+  ],
+  "serviceIds": [
+    "1",
+    "2"
+  ],
+  "appId": "a2c47f14-2f00-4d7d-9650-747b55baeef0",
+  "authoringKey": "882773d3b062424089941feac048c8f1",
+  "version": "Dispatch",
+  "region": "westus",
+  "type": "dispatch",
+  "name": "covid19Dispatch"
+}
