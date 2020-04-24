@@ -9,8 +9,8 @@
   "services": [
     {
       "intentName": "l_covid19",
-      "appId": "e9d5cd05-798f-48ee-aae6-a4385b4e36e0",
-      "authoringKey": "882773d3b062424089941feac048c8f1",
+      "appId": "luis ID",
+      "authoringKey": "luis starter Primary key",
       "version": "0.1",
       "region": "westus",
       "type": "luis",
@@ -20,8 +20,8 @@
     {
       "intentName": "q_covid19",
       "includePrompts": true,
-      "kbId": "c2a70a57-7c07-45ac-a449-f16cc723fdea",
-      "subscriptionKey": "945544f2130f4ad5886e75d005a7a23a",
+      "kbId": "knowledge base id",
+      "subscriptionKey": "Azure cognitive Qna maker",
       "type": "qna",
       "name": "Covid19Who",
       "id": "2"
@@ -31,9 +31,9 @@
     "1",
     "2"
   ],
-  "appId": "d48df7d9-ff35-4515-8ec8-faf983750fe7",
-  "authoringKey": "882773d3b062424089941feac048c8f1",
-  "subscriptionKey": "882773d3b062424089941feac048c8f1",
+  "appId": "dispatch id will generate, when you create dispatch",
+  "authoringKey": "Luis starter key",
+  "subscriptionKey": "luis starter key",
   "version": "Dispatch",
   "region": "westus",
   "type": "dispatch",
