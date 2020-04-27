@@ -1,0 +1,196 @@
+{
+  "luis_schema_version": "4.0.0",
+  "versionId": "0.1",
+  "name": "Covid19",
+  "desc": "",
+  "culture": "en-us",
+  "tokenizerVersion": "1.0.0",
+  "intents": [
+    {
+      "name": "Covid19India"
+    },
+    {
+      "name": "None"
+    },
+    {
+      "name": "WorldCovid19"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [],
+  "utterances": [
+    {
+      "text": "corona india",
+      "intent": "Covid19India",
+      "entities": []
+    },
+    {
+      "text": "corona virus india",
+      "intent": "Covid19India",
+      "entities": []
+    },
+    {
+      "text": "coronavirus update india",
+      "intent": "Covid19India",
+      "entities": []
+    },
+    {
+      "text": "covid19",
+      "intent": "Covid19India",
+      "entities": []
+    },
+    {
+      "text": "covid19 india",
+      "intent": "Covid19India",
+      "entities": []
+    },
+    {
+      "text": "current covid19 status",
+      "intent": "Covid19India",
+      "entities": []
+    },
+    {
+      "text": "current numbers of covid19 patient",
+      "intent": "Covid19India",
+      "entities": []
+    },
+    {
+      "text": "current update on corona virus",
+      "intent": "Covid19India",
+      "entities": []
+    },
+    {
+      "text": "global",
+      "intent": "WorldCovid19",
+      "entities": []
+    },
+    {
+      "text": "global covid19",
+      "intent": "WorldCovid19",
+      "entities": []
+    },
+    {
+      "text": "global covid19 status",
+      "intent": "WorldCovid19",
+      "entities": []
+    },
+    {
+      "text": "global covid19 update",
+      "intent": "WorldCovid19",
+      "entities": []
+    },
+    {
+      "text": "global live status",
+      "intent": "WorldCovid19",
+      "entities": []
+    },
+    {
+      "text": "global status",
+      "intent": "WorldCovid19",
+      "entities": []
+    },
+    {
+      "text": "india",
+      "intent": "Covid19India",
+      "entities": []
+    },
+    {
+      "text": "india corona update",
+      "intent": "Covid19India",
+      "entities": []
+    },
+    {
+      "text": "live",
+      "intent": "Covid19India",
+      "entities": []
+    },
+    {
+      "text": "live corona virus detail",
+      "intent": "Covid19India",
+      "entities": []
+    },
+    {
+      "text": "live covid19",
+      "intent": "Covid19India",
+      "entities": []
+    },
+    {
+      "text": "live covid19 status",
+      "intent": "Covid19India",
+      "entities": []
+    },
+    {
+      "text": "live status",
+      "intent": "Covid19India",
+      "entities": []
+    },
+    {
+      "text": "live status of coronavirus",
+      "intent": "Covid19India",
+      "entities": []
+    },
+    {
+      "text": "today",
+      "intent": "Covid19India",
+      "entities": []
+    },
+    {
+      "text": "today covid19 status",
+      "intent": "Covid19India",
+      "entities": []
+    },
+    {
+      "text": "today live status",
+      "intent": "Covid19India",
+      "entities": []
+    },
+    {
+      "text": "today status",
+      "intent": "Covid19India",
+      "entities": []
+    },
+    {
+      "text": "today world update",
+      "intent": "WorldCovid19",
+      "entities": []
+    },
+    {
+      "text": "what is current numbers of covid19 patient",
+      "intent": "Covid19India",
+      "entities": []
+    },
+    {
+      "text": "world",
+      "intent": "WorldCovid19",
+      "entities": []
+    },
+    {
+      "text": "world corona update",
+      "intent": "WorldCovid19",
+      "entities": []
+    },
+    {
+      "text": "world covid19",
+      "intent": "WorldCovid19",
+      "entities": []
+    },
+    {
+      "text": "world live status",
+      "intent": "WorldCovid19",
+      "entities": []
+    },
+    {
+      "text": "world update",
+      "intent": "WorldCovid19",
+      "entities": []
+    }
+  ],
+  "settings": []
+}
