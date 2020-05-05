@@ -1,6 +1,6 @@
-# NLP with Dispatch
+# Covid19Bot
 
-Bot Framework v4 NLP with Dispatch bot sample
+Full Tutorial is available on medium
 
 This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a bot that relies on multiple [LUIS.ai](https://www.luis.ai) and [QnAMaker.ai](https://www.qnamaker.ai) models for natural language processing (NLP).
 
@@ -36,10 +36,10 @@ To learn how to configure Dispatch with multiple LUIS models and QnA Maker servi
 - Clone the repository
 
     ```bash
-    git clone https://github.com/microsoft/botbuilder-samples.git
+    git clone https://github.com/zayedrais/Covid19Bot.git
     ```
 
-- In a terminal, navigate to `samples/csharp_dotnetcore/14.nlp-with-dispatch`
+- In a terminal, navigate to `Covid19Bot`
 - Run the bot from a terminal or from Visual Studio, choose option A or B.
 
   A) From a terminal
@@ -53,8 +53,8 @@ To learn how to configure Dispatch with multiple LUIS models and QnA Maker servi
 
   - Launch Visual Studio
   - File -> Open -> Project/Solution
-  - Navigate to `samples/csharp_dotnetcore/14.nlp-with-dispatch` folder
-  - Select `NLP-With-Dispatch-Bot.csproj` file
+  - Navigate to `Covid19Bot` folder
+  - Select `Covid19Bot.csproj` file
   - Press `F5` to run the project
 
 ## Testing the bot using Bot Framework Emulator
@@ -67,7 +67,7 @@ To learn how to configure Dispatch with multiple LUIS models and QnA Maker servi
 
 - Launch Bot Framework Emulator
 - File -> Open Bot
-- Enter a Bot URL of `http://localhost:3978/api/messages`
+- Enter a Bot URL of `http://localhost:3979/api/messages`
 
 ## Dispatch
 
