@@ -1,6 +1,6 @@
 # Covid19Bot
 
-Full Tutorial is available on medium
+<h2>The complete tutorial of this projet is avaialable on  <a href="https://medium.com/@zayedrais/build-your-covid19-bot-with-luis-qnamaker-azure-bot-service-7219d7ba58b6"> Medium post</h2>
 
 This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a bot that relies on multiple [LUIS.ai](https://www.luis.ai) and [QnAMaker.ai](https://www.qnamaker.ai) models for natural language processing (NLP).
 
